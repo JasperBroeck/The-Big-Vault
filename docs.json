@@ -14,9 +14,14 @@
         "icon": "rocket"
       },
       {
-        "title": "Next Steps",
-        "href": "/next-steps",
-        "icon": "arrow-right"
+        "group": "Advanced",
+        "pages": [
+          {
+            "title": "Next Steps",
+            "href": "/next-steps",
+            "icon": "arrow-right"
+          }
+        ]
       }
     ]
   }
