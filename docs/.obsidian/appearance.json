@@ -1,0 +1,12 @@
+{
+  "accentColor": "#a61111",
+  "cssTheme": "Sanctum",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "graph view color fill"
+  ],
+  "theme": "obsidian"
+}

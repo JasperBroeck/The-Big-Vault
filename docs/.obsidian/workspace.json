@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "d122e79eb8af97e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1238fb57b4ba4e3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d879a8afd71123d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History + Astrology/History + Astrology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History + Astrology"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21bce884ffef9d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "d92adc73aabb96b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f479dcc9225f00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e0246d0ed49e36c9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "938171ab338d53bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "aaa0091e49cbcb5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#NPC",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e07a728420bd4cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2fa5763a49aedce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14cce0110a886490",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign/Campaign.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Campaign"
+            }
+          },
+          {
+            "id": "f4b0a1869b17583b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaign/Campaign.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Campaign"
+            }
+          },
+          {
+            "id": "3f0bd3e71097ada4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dbe7e8d580e05837",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign/Campaign.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Campaign"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 536.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "d879a8afd71123d5",
+  "lastOpenFiles": [
+    "Assets/Assets.md",
+    "Atlas/Atlas.md",
+    "Atlas/Planes/Material Plane/Material Plane.md",
+    "History + Astrology/History + Astrology.md",
+    "Campaign/Campaign.md",
+    "A D&D Castel hub.md",
+    "Atlas/Planes/Material Plane/Aerthos.md",
+    "Unorganized/Unorganized.md",
+    "Templates/Templates.md",
+    "Life/Life.md",
+    "Items/Items.md",
+    "*D&D 5e SRD*/NPCs/Bandit Captain.md",
+    "*D&D 5e SRD*/NPCs/Acolyte.md",
+    "*D&D 5e SRD*/NPCs/Archmage.md",
+    "*D&D 5e SRD*/NPCs/Commoner.md",
+    "Life/Characters/Characters.md",
+    "Life/NPCs/NPCs.md",
+    "Life/Monsters/Monsters.md",
+    "History + Astrology/After Somnus/The Time of Unity.md",
+    "History + Astrology/Gods/Gods.md",
+    "Assets/Banners/round-table.jpg",
+    "Assets/Banners",
+    "History + Astrology/After Somnus/Present Day.md",
+    "History + Astrology/After Somnus/The Era of Ascendancy.md",
+    "History + Astrology/After Somnus/The Exploration Era.md",
+    "History + Astrology/After Somnus/The Age of Renewal.md",
+    "History + Astrology/After Somnus/The Defeat of the Shadow Emissary.md",
+    "History + Astrology/Before Somnus/The Unveiling of the Shattered Star.md",
+    "History + Astrology/After Somnus",
+    "History + Astrology/Before Somnus",
+    "Atlas/Planes/Plane of Shadow",
+    "Atlas/Planes/Plane of Air",
+    "Atlas/Planes/Material Plane",
+    "Assets/Gods/Vitralis.webp",
+    "Assets/Gods/Umbra.webp",
+    "Assets/Gods/Somnus.jpg",
+    "Assets/Gods/Lucia.png",
+    "Assets/Gods/Ignis.jpg",
+    "Assets/Gods/Aquanor.webp",
+    "Assets/Gods/Aeris.jpg",
+    "Tags",
+    "Unorganized",
+    "Life",
+    "Items",
+    "Atlas/Pictures/Aerthos.jpg",
+    "Assets/Gods/Terra.jpg",
+    "Untitled.canvas"
+  ]
+}
