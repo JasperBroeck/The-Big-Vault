@@ -2,7 +2,9 @@
   "name": "The Big Vault",
   "description": "A big central hub for the castel adventurers and me!",
   "theme": {
-    "primary": "#841113"
+    "primary": "#841113",
+    "backgroundDark": "#230900",
+    "backgroundLight": "#fcb783"
   },
   "sidebar": [
   {
