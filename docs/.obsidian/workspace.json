@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "{01} - Personal Generals/Daily/2024-12-27.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-27"
+              "title": "index"
             }
           }
         ]
@@ -33,7 +33,6 @@
       {
         "id": "d92adc73aabb96b6",
         "type": "tabs",
-        "dimension": 51.508620689655174,
         "children": [
           {
             "id": "70f479dcc9225f00",
@@ -72,29 +71,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9d4b698e760a6dca",
-        "type": "tabs",
-        "dimension": 48.491379310344826,
-        "children": [
-          {
-            "id": "f628d026132a98cf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "{01} - Personal Generals/Tracker.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Tracker"
             }
           }
         ]
