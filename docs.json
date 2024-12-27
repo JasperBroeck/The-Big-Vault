@@ -28,7 +28,6 @@
     "pages": [
       {
         "group": "Adventuring",
-        "icon": "swords",
         "pages": [
           {
             "title": "Actions in Combat",
@@ -79,6 +78,87 @@
             "href": "/SRD/Adventuring/underwater-combat"
           }
         ]
+      },
+      {
+        "group": "Classes",
+        "pages": [
+          {
+            "title": "Barbarian",
+            "href": "/SRD/Classes/barbarian"
+          },
+          {
+            "title": "Bard",
+            "href": "/SRD/Classes/bard"
+          },
+          {
+            "title": "Cleric",
+            "href": "/SRD/Classes/cleric"
+          },
+          {
+            "title": "Druid",
+            "href": "/SRD/Classes/druid"
+          },
+          {
+            "title": "Fighter",
+            "href": "/SRD/Classes/fighter"
+          },
+          {
+            "title": "Monk",
+            "href": "/SRD/Classes/monk"
+          },
+          {
+            "title": "Paladin",
+            "href": "/SRD/Classes/paladin"
+          },
+          {
+            "title": "Ranger",
+            "href": "/SRD/Classes/ranger"
+          },
+          {
+            "title": "Rogue",
+            "href": "/SRD/Classes/rogue"
+          },
+          {
+            "title": "Sorcerer",
+            "href": "/SRD/Classes/sorcerer"
+          },
+          {
+            "title": "Warlock",
+            "href": "/SRD/Classes/warlock"
+          },
+          {
+            "title": "Wizard",
+            "href": "/SRD/Classes/wizard"
+          }
+        ]
+      },
+      {
+        "group": "Creatures",
+        "pages": []
+      },
+      {
+        "group": "Customization",
+        "pages": []
+      },
+      {
+        "group": "Gamemastering",
+        "pages": []
+      },
+      {
+        "group": "NPCs",
+        "pages": []
+      },
+      {
+        "group": "Personalisation",
+        "pages": []
+      },
+      {
+        "group": "Races",
+        "pages": []
+      },
+      {
+        "group": "Spellcasting",
+        "pages": []
       }
     ]
   }
