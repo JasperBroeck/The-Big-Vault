@@ -1,9 +1,9 @@
 {
-  "name": "My Docs",
-  "description": "My documentation site",
+  "name": "The Big Vault",
+  "description": "A big central hub for the castel adventurers and me!",
   "theme": {
-    "primary": "#540b09"
-  }
+    "primary": "#841113"
+  },
   "sidebar": [
   {
     "group": "Getting Started",
