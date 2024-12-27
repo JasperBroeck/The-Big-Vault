@@ -20,18 +20,10 @@
         "title": "D&D Castel Hub",
         "href": "/",
         "icon": "brain"
-      },
-      {
-        "group": "Advanced",
-        "pages": [
-          {
-            "title": "Next Steps",
-            "href": "/next-steps",
-            "icon": "arrow-right"
-          }
-        ]
       }
-    ],
+    ]
+  },
+  {
     "group": "D&D 5e SRD",
     "pages": [
       {
