@@ -164,7 +164,32 @@
       },
       {
         "group": "Gamemastering",
-        "pages": []
+        "pages": [
+          {
+            "title": "Conditions",
+            "href": "/SRD/Gamemastering/conditions"
+          },
+          {
+            "title": "Pantheons",
+            "href": "/SRD/Gamemastering/pantheons"
+          },
+          {
+            "title": "Planes",
+            "href": "/SRD/Gamemastering/planes"
+          },
+          {
+            "title": "Sentient Magic",
+            "href": "/SRD/Gamemastering/sentient-magic"
+          },
+          {
+            "title": "Situational Rules",
+            "href": "/SRD/Gamemastering/situational-rules"
+          },
+          {
+            "title": "Treasure",
+            "href": "/SRD/Gamemastering/treasure"
+          }
+        ]
       },
       {
         "group": "NPCs",
