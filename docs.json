@@ -31,6 +31,62 @@
           }
         ]
       }
+    ],
+    "group": "D&D 5e SRD",
+    "pages": [
+      {
+        "group": "Adventuring",
+        "pages": [
+          {
+            "title": "Actions in Combat",
+            "href": ""
+          },
+          {
+            "title": "Between Adventures",
+            "href": ""
+          },
+          {
+            "title": "Combat",
+            "href": ""
+          },
+          {
+            "title": "Making an Attack",
+            "href": ""
+          },
+          {
+            "title": "Mounted Combat",
+            "href": ""
+          },
+          {
+            "title": "Movement",
+            "href": ""
+          },
+          {
+            "title": "Movement and Position",
+            "href": ""
+          },
+          {
+            "title": "Reactions",
+            "href": ""
+          },
+          {
+            "title": "Resting",
+            "href": ""
+          },
+          {
+            "title": "The Environment",
+            "href": ""
+          },
+          {
+            "title": "Time",
+            "href": ""
+          },
+          {
+            "title": "Underwater Combat",
+            "href": ""
+          }
+        ]
+      }
     ]
   }
 ]
