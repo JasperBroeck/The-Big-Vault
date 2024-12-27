@@ -4,7 +4,12 @@
   "theme": {
     "primary": "#841113",
     "backgroundDark": "#110d04",
-    "backgroundLight": "#efdcbc"
+    "backgroundLight": "#efdcbc",
+    "defaultTheme": "light"
+  },
+  "logo": {
+    "light": "/assets/logo-black.png",
+    "dark": "/assets/logo-white.png"
   },
   "sidebar": [
   {
