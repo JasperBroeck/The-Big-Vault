@@ -1,0 +1,31 @@
+{
+  "name": "My Docs",
+  "description": "My documentation site",
+  "theme": {
+    "primary": "#540b09"
+  }
+  "sidebar": [
+  {
+    "group": "Getting Started",
+    "pages": [
+      {
+        "title": "Getting to know docs.page",
+        "href": "/",
+        "icon": "rocket"
+      },
+      {
+        "title": "Next Steps",
+        "href": "/next-steps",
+        "icon": "arrow-right"
+      }
+    ]
+  }
+]
+}
+
+{
+  "theme": {
+    "primary": "#ab47bc"
+  }
+}
+
