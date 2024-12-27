@@ -134,7 +134,16 @@
       },
       {
         "group": "Creatures",
-        "pages": []
+        "pages": [
+          {
+            "title": "Legendary Creatures",
+            "href": "/SRD/Creatures/legendary-creatures"
+          },
+          {
+            "title": "Monster Statistics",
+            "href": "/SRD/Creatures/monster-statistics"
+          }
+        ]
       },
       {
         "group": "Customization",
