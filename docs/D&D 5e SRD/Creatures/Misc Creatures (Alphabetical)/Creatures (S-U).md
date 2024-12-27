@@ -1,4 +1,4 @@
-#SRD #Creatures 
+# Creatures (S-U)
 ## Saber-Toothed Tiger
 
 *Large beast, unaligned*

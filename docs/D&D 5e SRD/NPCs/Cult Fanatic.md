@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Cult Fanatic
 *Medium humanoid (any race), any non-good alignment*
 
 **Armor Class** 13 (leather armor)

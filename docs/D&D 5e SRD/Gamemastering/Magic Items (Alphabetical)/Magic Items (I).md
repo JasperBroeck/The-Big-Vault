@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (I)
 ### Immovable Rod
 
 *Rod, uncommon*

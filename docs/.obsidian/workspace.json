@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "D&D 5e SRD/Spellcasting/What is a Spell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "What is a Spell"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Personalization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 319.5
   },
   "right": {
     "id": "6e07a728420bd4cb",
@@ -158,8 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70f479dcc9225f00",
+  "active": "86052f593eb62b03",
   "lastOpenFiles": [
+    "D&D 5e SRD/Spellcasting/Spells per Class.md",
+    "D&D 5e SRD/Spellcasting/Spell Saving Throws.md",
+    "D&D 5e SRD/Spellcasting/Spell Attack Rolls.md",
+    "D&D 5e SRD/Spellcasting/Rituals.md",
+    "D&D 5e SRD/Spellcasting/Combining Magical Effects.md",
+    "D&D 5e SRD/Spellcasting/Casting a Spell.md",
+    "D&D 5e SRD/Spellcasting/Cantrips.md",
     "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (Z).md",
     "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (Y).md",
     "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (X).md",
@@ -179,16 +186,9 @@
     "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (J).md",
     "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (I).md",
     "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (H).md",
-    "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (G).md",
-    "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (F).md",
-    "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (E).md",
-    "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (D).md",
-    "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (C).md",
-    "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (B).md",
-    "D&D 5e SRD/Spellcasting/Spells (Alphabetical)/Spells (A).md",
+    "D&D 5e SRD/Races/Muppetborn-V02-796x1024.pdf",
     "D&D 5e SRD/Spellcasting/Spells (Alphabetical)",
     "D&D 5e SRD/Spellcasting",
-    "D&D 5e SRD/Races/Muppetborn-V02-796x1024.pdf",
     "D&D 5e SRD/Races",
     "D&D 5e SRD/Personalisation",
     "D&D 5e SRD/NPCs",

@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (F)
 #### Fabricate
 
 *4th-level transmutation*

@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Archmage
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 12 (15 with *mage armor*)

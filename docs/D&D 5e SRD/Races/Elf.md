@@ -1,4 +1,4 @@
-#SRD #Race 
+# Elf
 Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
 
 ***Ability Score Increase***. Your Dexterity score increases by 2.

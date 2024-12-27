@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (K)
 ## Kobold
 
 *Small humanoid (kobold), lawful evil*

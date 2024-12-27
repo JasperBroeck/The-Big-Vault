@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (F)
 ### Feather Token
 
 *Wondrous item, rare*

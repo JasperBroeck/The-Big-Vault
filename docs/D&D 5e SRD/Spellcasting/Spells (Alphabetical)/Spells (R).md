@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (R)
 #### Raise Dead
 
 *5th-level necromancy*

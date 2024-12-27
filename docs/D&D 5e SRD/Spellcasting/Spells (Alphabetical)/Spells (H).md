@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (H)
 #### Hallow
 
 *5th-level evocation*

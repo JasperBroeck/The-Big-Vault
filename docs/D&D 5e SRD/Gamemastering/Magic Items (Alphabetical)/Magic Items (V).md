@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (V)
 ### Vicious Weapon
 
 *Weapon (any), rare*

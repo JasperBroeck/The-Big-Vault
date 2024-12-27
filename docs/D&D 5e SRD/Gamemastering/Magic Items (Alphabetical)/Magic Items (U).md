@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (U)
 ### Universal Solvent
 
 *Wondrous item, legendary*

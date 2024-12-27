@@ -1,4 +1,4 @@
-#SRD #Race 
+# Half-Elf
 Your half-elf character has some qualities in common with elves and some that are unique to half-elves.
 
 ***Ability Score Increase***. Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.

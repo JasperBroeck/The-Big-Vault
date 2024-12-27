@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (B)
 ### Bag of Beans
 
 *Wondrous item, rare*

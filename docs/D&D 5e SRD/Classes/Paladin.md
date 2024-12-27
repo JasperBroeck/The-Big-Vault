@@ -1,4 +1,4 @@
-#SRD #Class 
+# Paladin
 As a paladin, you gain the following class features.
 
 #### Hit Points

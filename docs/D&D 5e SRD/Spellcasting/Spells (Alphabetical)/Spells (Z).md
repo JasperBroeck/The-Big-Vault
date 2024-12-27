@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (Z)
 #### Zone of Truth
 
 *2nd-level enchantment*

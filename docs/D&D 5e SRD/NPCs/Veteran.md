@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Veteran
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 17 (splint)

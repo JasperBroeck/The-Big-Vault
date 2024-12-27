@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (N)
 #### Nondetection
 
 *3rd-level abjuration*

@@ -1,4 +1,4 @@
-#SRD #Adventuring 
+# Making an Attack
 Whether you're striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure.
 
 - **Choose a target**. Pick a target within your attack's **Range:** a creature, an object, or a location.

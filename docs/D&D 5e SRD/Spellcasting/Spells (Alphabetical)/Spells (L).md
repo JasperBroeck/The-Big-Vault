@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (L)
 #### Legend Lore
 
 *5th-level divination*

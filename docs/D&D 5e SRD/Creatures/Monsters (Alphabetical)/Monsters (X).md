@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (X)
 ## Xorn
 
 *Medium elemental, neutral*

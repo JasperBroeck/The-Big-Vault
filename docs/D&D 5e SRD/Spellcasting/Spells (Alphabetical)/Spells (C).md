@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (C)
 #### Call Lightning
 
 *3rd-level conjuration*

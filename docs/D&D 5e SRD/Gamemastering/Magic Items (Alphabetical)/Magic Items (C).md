@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (C)
 ### Candle of Invocation
 
 *Wondrous item, very rare (requires attunement)*

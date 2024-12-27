@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Cultist
 *Medium humanoid (any race), any non-good alignment*
 
 **Armor Class** 12 (leather armor)

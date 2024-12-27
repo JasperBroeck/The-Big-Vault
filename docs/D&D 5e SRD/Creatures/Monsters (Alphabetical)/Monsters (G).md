@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (G)
 ## Gargoyle
 
 *Medium elemental, chaotic evil*

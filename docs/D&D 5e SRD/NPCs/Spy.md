@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Spy
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 12

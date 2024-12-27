@@ -1,4 +1,4 @@
-#SRD #Race 
+# Halfling
 Your halfling character has a number of traits in common with all other halflings.
 
 ***Ability Score Increase***. Your Dexterity score increases by 2.

@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (Z)
 ## Zombies
 
 ### Zombie

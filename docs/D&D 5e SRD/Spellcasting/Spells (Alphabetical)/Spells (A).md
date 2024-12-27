@@ -1,4 +1,4 @@
-#SRD #Spells
+# Spells (A)
 #### Acid Arrow
 
 *2nd-level evocation*

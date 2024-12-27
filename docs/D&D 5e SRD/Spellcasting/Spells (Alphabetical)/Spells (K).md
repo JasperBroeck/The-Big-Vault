@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (K)
 #### Knock
 
 *2nd-level transmutation*

@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (T)
 ## Tarrasque
 
 *Gargantuan monstrosity (titan), unaligned*

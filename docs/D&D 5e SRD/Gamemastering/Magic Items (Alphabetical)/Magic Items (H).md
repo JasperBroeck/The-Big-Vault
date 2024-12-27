@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (H)
 ### Hammer of Thunderbolts
 
 *Weapon (maul), legendary*

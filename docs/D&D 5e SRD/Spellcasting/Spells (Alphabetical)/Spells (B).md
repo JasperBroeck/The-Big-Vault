@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (B)
 #### Bane
 
 *1st-level enchantment*

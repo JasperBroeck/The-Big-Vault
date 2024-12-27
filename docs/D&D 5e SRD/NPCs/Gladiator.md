@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Gladiator
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 16 (studded leather, shield)

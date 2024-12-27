@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Bandit Captain
 *Medium humanoid (any race), any non-lawful alignment*
 
 **Armor Class** 15 (studded leather)

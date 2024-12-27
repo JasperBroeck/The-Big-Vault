@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (S)
 #### Sacred Flame
 
 *Evocation cantrip*

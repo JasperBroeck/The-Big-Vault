@@ -1,4 +1,4 @@
-#SRD #Race
+# Dwarf
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 
 ***Ability Score Increase***. Your Constitution score increases by 2.

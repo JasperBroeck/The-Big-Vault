@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (L)
 ### Lantern of Revealing
 
 *Wondrous item, uncommon*

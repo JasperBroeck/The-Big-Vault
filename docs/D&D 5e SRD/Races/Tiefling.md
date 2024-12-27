@@ -1,4 +1,4 @@
-#SRD #Race 
+# Tiefling
 Tieflings share certain racial traits as a result of their infernal descent.
 
 ***Ability Score Increase***. Your Intelligence score increases by 1, and your Charisma score increases by 2.

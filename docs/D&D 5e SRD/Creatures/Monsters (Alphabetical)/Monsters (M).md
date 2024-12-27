@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (M)
 ## Magmin
 
 *Small elemental, chaotic neutral*

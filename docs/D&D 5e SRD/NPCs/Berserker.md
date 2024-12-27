@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Berserker
 *Medium humanoid (any race), any chaotic alignment*
 
 **Armor Class** 13 (hide armor)

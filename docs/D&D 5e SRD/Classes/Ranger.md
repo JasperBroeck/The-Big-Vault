@@ -1,4 +1,4 @@
-#SRD #Class 
+# Ranger
 As a ranger, you gain the following class features.
 
 #### Hit Points

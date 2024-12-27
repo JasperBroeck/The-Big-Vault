@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (T)
 ### Talisman of Pure Good
 
 *Wondrous item, legendary (requires attunement by a creature of good alignment)*

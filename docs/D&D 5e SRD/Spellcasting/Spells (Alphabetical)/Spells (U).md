@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (U)
 #### Unseen Servant
 
 *1st-level conjuration (ritual)*

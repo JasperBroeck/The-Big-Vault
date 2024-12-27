@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (P)
 ## Pegasus
 
 *Large celestial, chaotic good*

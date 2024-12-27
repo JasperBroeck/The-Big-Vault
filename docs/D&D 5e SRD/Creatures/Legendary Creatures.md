@@ -1,4 +1,4 @@
-#SRD #Creatures
+# Legendary Creatures
 A legendary creature can do things that ordinary creatures can't. It can take special actions outside its turn, and it might exert magical influence for miles around.
 
 If a creature assumes the form of a legendary creature, such as through a spell, it doesn't gain that form's legendary actions, lair actions, or regional effects.

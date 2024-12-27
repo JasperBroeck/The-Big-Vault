@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (J)
 ### Javelin of Lightning
 
 *Weapon (javelin), uncommon*

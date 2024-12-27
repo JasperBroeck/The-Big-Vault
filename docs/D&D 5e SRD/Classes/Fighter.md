@@ -1,4 +1,4 @@
-#SRD #Class 
+# Fighter
 As a fighter, you gain the following class features.
 
 #### Hit Points

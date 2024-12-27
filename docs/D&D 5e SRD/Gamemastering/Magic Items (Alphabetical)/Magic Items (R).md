@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (R)
 ### Restorative Ointment
 
 *Wondrous item, uncommon*

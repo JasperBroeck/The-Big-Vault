@@ -1,4 +1,4 @@
-#SRD #GameMastering 
+# Artifacts
 ### Orb of Dragonkind
 
 *Wondrous item, artifact (requires attunement)*

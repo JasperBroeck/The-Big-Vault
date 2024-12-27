@@ -1,4 +1,4 @@
-#SRD #Personalization 
+# Languages
 Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
 
 Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.

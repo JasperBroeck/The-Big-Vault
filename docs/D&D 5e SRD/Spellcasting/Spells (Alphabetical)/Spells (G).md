@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (G)
 #### Gaseous Form
 
 *3rd-level transmutation*

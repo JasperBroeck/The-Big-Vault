@@ -1,4 +1,4 @@
-#SRD #Creatures 
+# Creatures (P-R)
 ## Panther
 
 *Medium beast, unaligned*

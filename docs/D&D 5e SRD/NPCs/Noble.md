@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Noble
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 15 (breastplate)

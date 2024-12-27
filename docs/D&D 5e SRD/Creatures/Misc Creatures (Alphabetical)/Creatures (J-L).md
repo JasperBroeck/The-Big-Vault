@@ -1,4 +1,4 @@
-#SRD #Creatures 
+# Creatures (J-L)
 ## Jackal
 
 *Small beast, unaligned*

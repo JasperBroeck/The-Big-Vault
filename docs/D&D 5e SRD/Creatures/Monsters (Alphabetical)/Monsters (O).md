@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (O)
 ## Ogre
 
 *Large giant, chaotic evil*

@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (L)
 ## Lamia
 
 *Large monstrosity, chaotic evil*

@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (R)
 ## Rakshasa
 
 *Medium fiend, lawful evil*

@@ -1,4 +1,4 @@
-#SRD #Class 
+# Warlock
 As a warlock, you gain the following class features.
 
 #### Hit Points

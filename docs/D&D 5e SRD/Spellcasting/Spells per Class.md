@@ -1,4 +1,4 @@
-#SRD #Spellcasting
+# Spells per Class
 ## Bard Spells
 
 #### Cantrips (0 Level)

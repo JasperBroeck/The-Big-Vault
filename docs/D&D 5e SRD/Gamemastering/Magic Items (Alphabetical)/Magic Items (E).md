@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (E)
 ### Efficient Quiver
 
 *Wondrous item, uncommon*

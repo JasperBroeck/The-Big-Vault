@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Knight
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 18 (plate)

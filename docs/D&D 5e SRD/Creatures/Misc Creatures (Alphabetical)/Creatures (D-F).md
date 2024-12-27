@@ -1,4 +1,4 @@
-#SRD #Creatures 
+# Creatures (D-F)
 ## Death Dog
 
 *Medium monstrosity, neutral evil*

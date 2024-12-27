@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (W)
 #### Wall of Fire
 
 *4th-level evocation*

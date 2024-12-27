@@ -1,1 +1,1 @@
-#SRD #Spells 
+# Spells (Y)

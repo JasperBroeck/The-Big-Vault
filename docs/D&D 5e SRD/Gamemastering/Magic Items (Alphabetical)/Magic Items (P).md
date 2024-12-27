@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (P)
 ### Pearl of Power
 
 *Wondrous item, uncommon (requires attunement by a spellcaster)*

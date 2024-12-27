@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (V)
 #### Vampiric Touch
 
 *3rd-level necromancy*

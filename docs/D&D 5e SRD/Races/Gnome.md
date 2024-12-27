@@ -1,4 +1,4 @@
-#SRD #Race 
+# Gnome
 Your gnome character has certain characteristics in common with all other gnomes.
 
 ***Ability Score Increase***. Your Intelligence score increases by 2.

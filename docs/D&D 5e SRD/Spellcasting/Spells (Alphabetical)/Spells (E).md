@@ -1,4 +1,4 @@
-#SRD  #Spells 
+# Spells (E)
 #### Earthquake
 
 *8th-level evocation*

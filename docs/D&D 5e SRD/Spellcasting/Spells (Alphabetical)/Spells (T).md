@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (T)
 #### Telekinesis
 
 *5th-level transmutation*

@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Acolyte
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 10

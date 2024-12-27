@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (C)
 ## Centaur
 
 *Large monstrosity, neutral good*

@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (J)
 #### Jump
 
 *1st-level transmutation*

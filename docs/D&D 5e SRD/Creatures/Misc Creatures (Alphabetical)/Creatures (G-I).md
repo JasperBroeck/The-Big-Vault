@@ -1,4 +1,4 @@
-#SRD #Creatures 
+# Creatures (G-I)
 ## Giant Ape
 
 *Huge beast, unaligned*

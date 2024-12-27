@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (A)
 ### Adamantine Armor
 
 *Armor (medium or heavy, but not hide), uncommon*

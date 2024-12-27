@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Customizing NPCs
 There are many easy ways to customize the NPCs in this appendix for your home campaign.
 
 ***Racial Traits***. You can add racial traits to an NPC. For example, a halfling druid might have a speed of 25 feet and the Lucky trait. Adding racial traits to an NPC doesn't alter its challenge rating. For more on racial traits, see the *Player's Handbook*.

@@ -1,4 +1,4 @@
-#SRD #Class 
+# Monk
 As a monk, you gain the following class features.
 
 #### Hit Points

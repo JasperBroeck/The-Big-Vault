@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (B)
 ## Basilisk
 
 *Medium monstrosity, unaligned*

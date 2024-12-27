@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Commoner
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 10

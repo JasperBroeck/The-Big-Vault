@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (D)
 ### Dagger of Venom
 
 *Weapon (dagger), rare*

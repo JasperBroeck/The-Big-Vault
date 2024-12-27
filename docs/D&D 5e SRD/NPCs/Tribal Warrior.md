@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Tribal Warrior
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 12 (hide armor)

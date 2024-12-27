@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (I)
 ## Invisible Stalker
 
 *Medium elemental, neutral*

@@ -1,4 +1,4 @@
-#SRD #Class 
+# Sorcerer
 As a sorcerer, you gain the following class features.
 
 #### Hit Points

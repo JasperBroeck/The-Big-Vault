@@ -1,1 +1,1 @@
-#SRD #MagicItems
+# Magic Items (Y)

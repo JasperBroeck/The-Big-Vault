@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Scout
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 13 (leather armor)

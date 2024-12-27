@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Priest
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 13 (chain shirt)

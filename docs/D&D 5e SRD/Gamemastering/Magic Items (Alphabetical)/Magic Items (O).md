@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (O)
 ### Oathbow
 
 *Weapon (longbow), very rare (requires attunement)*

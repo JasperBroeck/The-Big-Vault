@@ -1,4 +1,4 @@
-#SRD #Race 
+# Half-Orc 
 Your half-orc character has certain traits deriving from your orc ancestry.
 
 ***Ability Score Increase***. Your Strength score increases by 2, and your Constitution score increases by 1.

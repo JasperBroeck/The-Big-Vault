@@ -1,4 +1,4 @@
-#SRD #Class 
+# Bard
 As a bard, you gain the following class features.
 
 #### Hit Points

@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (D)
 #### Dancing Lights
 
 *Evocation cantrip*

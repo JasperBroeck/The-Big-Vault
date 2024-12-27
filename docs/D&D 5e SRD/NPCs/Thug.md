@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Thug
 *Medium humanoid (any race), any non-good alignment*
 
 **Armor Class** 11 (leather armor)

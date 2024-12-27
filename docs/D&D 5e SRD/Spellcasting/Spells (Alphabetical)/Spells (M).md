@@ -1,4 +1,4 @@
-#SRD #Spells 
+# Spells (M)
 #### Mage Armor
 
 *1st-level abjuration*

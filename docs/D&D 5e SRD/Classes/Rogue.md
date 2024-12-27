@@ -1,4 +1,4 @@
-#SRD #Class 
+# Rogue
 As a rogue, you have the following class features.
 
 #### Hit Points

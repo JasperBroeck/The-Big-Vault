@@ -1,4 +1,4 @@
-#SRD #Class 
+# Cleric
 As a cleric, you gain the following class features.
 
 #### Hit Points

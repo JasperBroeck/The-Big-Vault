@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Bandit
 *Medium humanoid (any race), any non-lawful alignment*
 
 **Armor Class** 12 (leather armor)

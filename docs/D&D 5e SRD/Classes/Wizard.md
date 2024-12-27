@@ -1,4 +1,4 @@
-#SRD #Class 
+# Wizard
 As a wizard, you gain the following class features.
 
 #### Hit Points

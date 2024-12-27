@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (N)
 ### Necklace of Adaptation
 
 *Wondrous item, uncommon (requires attunement)*

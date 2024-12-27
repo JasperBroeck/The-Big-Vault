@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (S)
 ### Scarab of Protection
 
 *Wondrous item, legendary (requires attunement)*

@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (M)
 ### Mace of Disruption
 
 *Weapon (mace), rare (requires attunement)*

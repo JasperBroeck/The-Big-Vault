@@ -1,4 +1,4 @@
-#SRD #Creatures 
+# Creatures (M-O)
 ## Mammoth
 
 *Huge beast, unaligned*

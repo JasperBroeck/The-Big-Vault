@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (W)
 ### Wand of Binding
 
 *Wand, rare (requires attunement by a spellcaster)*

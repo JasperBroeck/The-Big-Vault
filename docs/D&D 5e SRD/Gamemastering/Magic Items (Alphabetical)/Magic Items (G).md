@@ -1,4 +1,4 @@
-#SRD #MagicItems
+# Magic Items (G)
 ### Gauntlets of Ogre Power
 
 *Wondrous item, uncommon (requires attunement)*

@@ -1,4 +1,4 @@
-#SRD #Class
+# Barbarian
 As a barbarian, you gain the following class features.
 
 #### Hit Points

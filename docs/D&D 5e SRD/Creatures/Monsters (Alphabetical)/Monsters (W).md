@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (W)
 ## Wight
 
 *Medium undead, neutral evil*

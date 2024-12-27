@@ -1,4 +1,4 @@
-#SRD #Class
+# Druid
 As a druid, you gain the following class features.
 
 #### Hit Points

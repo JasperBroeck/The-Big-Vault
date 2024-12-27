@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (S)
 ## Sahuagin
 
 *Medium humanoid (sahuagin), lawful evil*

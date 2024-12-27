@@ -1,4 +1,4 @@
-#SRD #NPCs
+# Guard
 *Medium humanoid (any race), any alignment*
 
 **Armor Class** 16 (chain shirt, shield)

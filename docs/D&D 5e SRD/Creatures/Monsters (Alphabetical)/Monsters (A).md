@@ -1,4 +1,4 @@
-#SRD #Monsters 
+# Monsters (A)
 ## Aboleth
 
 *Large aberration, lawful evil*
