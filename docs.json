@@ -147,7 +147,20 @@
       },
       {
         "group": "Customization",
-        "pages": []
+        "pages": [
+          {
+            "title": "Class Features",
+            "href": "/SRD/Customization/class-features"
+          },
+          {
+            "title": "Feats",
+            "href": "/SRD/Customization/feats"
+          },
+          {
+            "title": "Multiclassing",
+            "href": "/SRD/Customization/multiclassing"
+          }
+        ]
       },
       {
         "group": "Gamemastering",
