@@ -28,6 +28,7 @@
     "pages": [
       {
         "group": "Adventuring",
+        "icon": "swords",
         "pages": [
           {
             "title": "Actions in Combat",
