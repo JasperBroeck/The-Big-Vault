@@ -14,7 +14,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, images and other joempos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzc3NjgwXX0=
+eyJoaXN0b3J5IjpbLTYwMjIyNDk5Ml19
 -->
