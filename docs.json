@@ -14,12 +14,12 @@
   "favicon": "/assets/favicon.ico",
   "sidebar": [
   {
-    "group": "Getting Started",
+    "group": "Castel Adventurers",
     "pages": [
       {
-        "title": "Getting to know docs.page",
+        "title": "D&D Castel Hub",
         "href": "/",
-        "icon": "rocket"
+        "icon": "brain"
       },
       {
         "group": "Advanced",
