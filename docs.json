@@ -286,7 +286,76 @@
       },
       {
         "group": "Personalisation",
-        "pages": []
+        "pages": [
+          {
+            "title": "Abilities",
+            "href": "/SRD/Personalisation/abilities"
+          },
+          {
+            "title": "Ability Checks",
+            "href": "/SRD/Personalisation/ability-checks"
+          },
+          {
+            "title": "(Dis)advantage",
+            "href": "/SRD/Personalisation/advantage"
+          },
+          {
+            "title": "Adventuring Gear",
+            "href": "/SRD/Personalisation/adventuring-gear"
+          },
+          {
+            "title": "Alignment",
+            "href": "/SRD/Personalisation/alignment"
+          },
+          {
+            "title": "Armor",
+            "href": "/SRD/Personalisation/armor"
+          },
+          {
+            "title": "Backgrounds",
+            "href": "/SRD/Personalisation/backgrounds"
+          },
+          {
+            "title": "Equipment",
+            "href": "/SRD/Personalisation/equipment"
+          },
+          {
+            "title": "Expenses",
+            "href": "/SRD/Personalisation/expenses"
+          },
+          {
+            "title": "Ispiration",
+            "href": "/SRD/Personalisation/inspiration"
+          },
+          {
+            "title": "Languages",
+            "href": "/SRD/Personalisation/languages"
+          },
+          {
+            "title": "Mounts and Vehicles",
+            "href": "/SRD/Personalisation/mounts-and-vehicles"
+          },
+          {
+            "title": "Proficiency Bonus",
+            "href": "/SRD/Personalisation/proficiency-bonus"
+          },
+          {
+            "title": "Saving Throws",
+            "href": "/SRD/Personalisation/saving-throws"
+          },
+          {
+            "title": "Tools",
+            "href": "/SRD/Personalisation/tools"
+          },
+          {
+            "title": "Trade Goods",
+            "href": "/SRD/Personalisation/trade-goods"
+          },
+          {
+            "title": "Weapons",
+            "href": "/SRD/Personalisation/weapons"
+          }
+        ]
       },
       {
         "group": "Races",
