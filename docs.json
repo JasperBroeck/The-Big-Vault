@@ -359,7 +359,44 @@
       },
       {
         "group": "Races",
-        "pages": []
+        "pages": [
+          {
+            "title": "Dragonborn",
+            "href": "/SRD/Races/dragonborn"
+          },
+          {
+            "title": "Dwarf",
+            "href": "/SRD/Races/dwarf"
+          },
+          {
+            "title": "Elf",
+            "href": "/SRD/Races/elf"
+          },
+          {
+            "title": "Gnome",
+            "href": "/SRD/Races/gnome"
+          },
+          {
+            "title": "Half-Elf",
+            "href": "/SRD/Races/half-elf"
+          },
+          {
+            "title": "Half-Orc",
+            "href": "/SRD/Races/half-orc"
+          },
+          {
+            "title": "Halfling",
+            "href": "/SRD/Races/halfling"
+          },
+          {
+            "title": "Human",
+            "href": "/SRD/Races/human"
+          },
+          {
+            "title": "Tiefling",
+            "href": "/SRD/Races/tiefling"
+          }
+        ]
       },
       {
         "group": "Spellcasting",
