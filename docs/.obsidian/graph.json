@@ -3,10 +3,39 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#School  ",
+      "color": {
+        "a": 1,
+        "rgb": 15032831
+      }
+    },
+    {
+      "query": "path:\"{04} - Templates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7895160
+      }
+    },
+    {
+      "query": "tag:#Daily",
+      "color": {
+        "a": 1,
+        "rgb": 7711487
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15435766901010675,
+  "scale": 0.6423658914609933,
   "close": true
 }

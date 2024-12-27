@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 5,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
-    "iconColor": null,
+    "iconColor": "#ffffff",
     "recentlyUsedIcons": [
-      "BoBxTrash",
-      "BoBxBookmark",
-      "BoBxRun",
-      "BoBxBaguette",
-      "BoBxTime"
+      "LiCalendarDays",
+      "LiYoutube",
+      "BoBxDrink",
+      "BoBxsPen",
+      "BoBxsMicrophone"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,19 +26,22 @@
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsBackgroundCheckEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
-  "*D&D 5e SRD*": "BoBxBook",
-  "Atlas": "BoBxGlobeAlt",
-  "History + Astrology": "BoBxTime",
-  "Items": "BoBxBaguette",
-  "Life": "BoBxRun",
-  "Templates": "BoBxBookmark",
-  "Unorganized": "BoBxTrash",
-  "Campaign": "BoBxBookOpen",
-  "Assets": "BoBxImageAlt"
+  "{01} - Personal Generals": "BoBxUserCircle",
+  "{02} - School": "BoBxsBookOpen",
+  "{03} - Templates": "BoBxPaperclip",
+  "Reference Files": "BoBxLink",
+  "{02} - School/2023 - 2024": "LiCalendarRange",
+  "{02} - School/2024 - 2025": "LiCalendarRange",
+  "{02} - School/2024 - 2025/Wiskunde": "LiCalculator",
+  "{02} - School/2024 - 2025/Biologie": "LiLeaf",
+  "{02} - School/2024 - 2025/Frans": "LiLanguages",
+  "{01} - Personal Generals/Fermented Ginger": "BoBxDrink",
+  "{01} - Personal Generals/Daily": "LiCalendarDays"
 }

@@ -1,8 +1,7 @@
 [
-  "obsidian-leaflet-plugin",
-  "obsidian-columns",
-  "folder-note-plugin",
-  "obsidian-style-settings",
+  "unicode-search",
   "obsidian-icon-folder",
-  "pexels-banner"
+  "obsidian-columns",
+  "contribution-graph",
+  "dataview"
 ]

@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1238fb57b4ba4e3a",
+        "id": "9a5301f6757f2e12",
         "type": "tabs",
         "children": [
           {
-            "id": "d879a8afd71123d5",
+            "id": "86052f593eb62b03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "{01} - Personal Generals/Daily/2024-12-27.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2024-12-27"
             }
           }
         ]
@@ -34,6 +33,7 @@
       {
         "id": "d92adc73aabb96b6",
         "type": "tabs",
+        "dimension": 51.508620689655174,
         "children": [
           {
             "id": "70f479dcc9225f00",
@@ -48,32 +48,12 @@
             }
           },
           {
-            "id": "e0246d0ed49e36c9",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "938171ab338d53bc",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
             "id": "aaa0091e49cbcb5b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NPC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,28 +63,60 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "d826864ce3d71268",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9d4b698e760a6dca",
+        "type": "tabs",
+        "dimension": 48.491379310344826,
+        "children": [
+          {
+            "id": "f628d026132a98cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "{01} - Personal Generals/Tracker.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tracker"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 388.5
   },
   "right": {
     "id": "6e07a728420bd4cb",
     "type": "split",
     "children": [
       {
-        "id": "c2fa5763a49aedce",
+        "id": "54fc3527fc3b4e9a",
         "type": "tabs",
         "children": [
           {
-            "id": "14cce0110a886490",
+            "id": "110866655bb4809e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +126,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Campaign"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "f4b0a1869b17583b",
+            "id": "4fc098d9ab8187f9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Campaign"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "3f0bd3e71097ada4",
+            "id": "68c5e1d6985b41ec",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,22 +156,20 @@
             }
           },
           {
-            "id": "dbe7e8d580e05837",
+            "id": "6a83cae7f6bdd21e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Campaign/Campaign.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Campaign"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 536.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -170,59 +179,50 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d879a8afd71123d5",
+  "active": "86052f593eb62b03",
   "lastOpenFiles": [
-    "Assets/Assets.md",
-    "Atlas/Atlas.md",
-    "Atlas/Planes/Material Plane/Material Plane.md",
-    "History + Astrology/History + Astrology.md",
-    "Campaign/Campaign.md",
-    "A D&D Castel hub.md",
-    "Atlas/Planes/Material Plane/Aerthos.md",
-    "Unorganized/Unorganized.md",
-    "Templates/Templates.md",
-    "Life/Life.md",
-    "Items/Items.md",
-    "*D&D 5e SRD*/NPCs/Bandit Captain.md",
-    "*D&D 5e SRD*/NPCs/Acolyte.md",
-    "*D&D 5e SRD*/NPCs/Archmage.md",
-    "*D&D 5e SRD*/NPCs/Commoner.md",
-    "Life/Characters/Characters.md",
-    "Life/NPCs/NPCs.md",
-    "Life/Monsters/Monsters.md",
-    "History + Astrology/After Somnus/The Time of Unity.md",
-    "History + Astrology/Gods/Gods.md",
-    "Assets/Banners/round-table.jpg",
-    "Assets/Banners",
-    "History + Astrology/After Somnus/Present Day.md",
-    "History + Astrology/After Somnus/The Era of Ascendancy.md",
-    "History + Astrology/After Somnus/The Exploration Era.md",
-    "History + Astrology/After Somnus/The Age of Renewal.md",
-    "History + Astrology/After Somnus/The Defeat of the Shadow Emissary.md",
-    "History + Astrology/Before Somnus/The Unveiling of the Shattered Star.md",
-    "History + Astrology/After Somnus",
-    "History + Astrology/Before Somnus",
-    "Atlas/Planes/Plane of Shadow",
-    "Atlas/Planes/Plane of Air",
-    "Atlas/Planes/Material Plane",
-    "Assets/Gods/Vitralis.webp",
-    "Assets/Gods/Umbra.webp",
-    "Assets/Gods/Somnus.jpg",
-    "Assets/Gods/Lucia.png",
-    "Assets/Gods/Ignis.jpg",
-    "Assets/Gods/Aquanor.webp",
-    "Assets/Gods/Aeris.jpg",
-    "Tags",
-    "Unorganized",
-    "Life",
-    "Items",
-    "Atlas/Pictures/Aerthos.jpg",
-    "Assets/Gods/Terra.jpg",
-    "Untitled.canvas"
+    "{01} - Personal Generals/Tracker.md",
+    "{01} - Personal Generals/Daily/2024-12-27.md",
+    "{03} - Templates/Daily Template.md",
+    "{01} - Personal Generals/To-Do's.md",
+    "{02} - School/2024 - 2025/Wiskunde/Samenvatting examen December - WIS.md",
+    "{02} - School/2024 - 2025/Biologie/Samenvatting hoofdstuk 4.md",
+    "{02} - School/2024 - 2025/Frans/Tekst - Elevator Pitch.md",
+    "{02} - School/2024 - 2025/Wiskunde/Goniometrie/Hoofdstuk 1.md",
+    "{02} - School/2024 - 2025/Wiskunde/Algebra/Euclidische deling en Horner.md",
+    "{02} - School/2024 - 2025/Biologie/Microscopie en Cellen.md",
+    "{02} - School/2024 - 2025/Wiskunde/Algebra/Notities Veeltermen (herhaling).md",
+    "{02} - School/2023 - 2024/Biologie Samenvatting, Examen Juni 24.md",
+    "Reference Files/Tldraw 2024-09-27 9.51PM.md",
+    "{02} - School/2024 - 2025/Wiskunde/Goniometrie/(!) Sin, Cos, Tan, Cot.md",
+    "{02} - School/2024 - 2025/Wiskunde/Goniometrie/(!) Sec, Csc.md",
+    "{02} - School/2024 - 2025/Biologie/(!) Plantaardige cel.md",
+    "{02} - School/2024 - 2025/Wiskunde/Algebra/(!) Horner.md",
+    "{02} - School/2024 - 2025/Wiskunde/Algebra/(!) Euclidische deling.md",
+    "{02} - School/2024 - 2025/Wiskunde/Goniometrie/(!) Goniometrische cirkel en hoeken.md",
+    "Untitled Kanban.md",
+    "{01} - Personal Generals/Daily/2024-12-28.md",
+    "{01} - Personal Generals/Bucket List.md",
+    "{01} - Personal Generals/Daily's/2025/Untitled.md",
+    "{01} - Personal Generals/Daily's/2025",
+    "{01} - Personal Generals/Travel Dreams.md",
+    "{01} - Personal Generals/Joetoep/List.md",
+    "{01} - Personal Generals/Daily",
+    "{01} - Personal Generals/Joetoep",
+    "{01} - Personal Generals/Fermented Ginger/Complete Guide.md",
+    "{01} - Personal Generals/Fermented Ginger",
+    "{01} - Personal Generals/Writing",
+    "{01} - Personal Generals/Linux in the Pocket/Season 0",
+    "{01} - Personal Generals/Linux in the Pocket/Season 1",
+    "{01} - Personal Generals/Linux in the Pocket",
+    "Excalidraw",
+    "{01} - Personal Generals/Youtube/011 My Daily's and workflows",
+    "{02} - School/2024 - 2025/Wiskunde/Algebra/Euclidische deling en Horner.canvas",
+    "{01} - Personal Generals/Youtube/009 How to be cool and without using terminal/Containerized V.S. Native.canvas",
+    "{01} - Personal Generals/Youtube/008 How to install the supperior OS/Linux Install Scheme.canvas",
+    "{01} - Personal Generals/Youtube/005/Untitled.canvas"
   ]
 }

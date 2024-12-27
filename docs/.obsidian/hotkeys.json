@@ -43,13 +43,29 @@
       "key": "L"
     }
   ],
-  "local-gpt:context-menu": [
+  "editor:toggle-strikethrough": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "G"
+      "key": "S"
+    }
+  ],
+  "editor:save-file": [],
+  "unicode-search:search-unicode-chars": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
     }
   ]
 }

@@ -3,7 +3,7 @@
   color: red;
 }
 .theme-dark .graph-view.color-fill-tag {
-  color: #red;
+  color: #ffe84f;
 }
 .theme-light .graph-view.color-fill {
   color: green;
@@ -12,5 +12,5 @@
     color: red;
 }
 .theme-light .graph-view.color-fill-tag {
-  color: #red;
+  color: #ffe84f;
 }
