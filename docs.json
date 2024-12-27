@@ -193,7 +193,96 @@
       },
       {
         "group": "NPCs",
-        "pages": []
+        "pages": [
+          {
+            "title": "Acolyte",
+            "href": "/SRD/NPCs/acolyte"
+          },
+          {
+            "title": "Archmage",
+            "href": "/SRD/NPCs/archmage"
+          },
+          {
+            "title": "Assassin",
+            "href": "/SRD/NPCs/assassin"
+          },
+          {
+            "title": "Bandit",
+            "href": "/SRD/NPCs/bandit"
+          },
+          {
+            "title": "Bandit Captain",
+            "href": "/SRD/NPCs/bandit-captain"
+          },
+          {
+            "title": "Berserker",
+            "href": "/SRD/NPCs/berserker"
+          },
+          {
+            "title": "Commoner",
+            "href": "/SRD/NPCs/commoner"
+          },
+          {
+            "title": "Cult Fanatic",
+            "href": "/SRD/NPCs/cult-fanatic"
+          },
+          {
+            "title": "Cultist",
+            "href": "/SRD/NPCs/cultist"
+          },
+          {
+            "title": "Druid",
+            "href": "/SRD/NPCs/druid"
+          },
+          {
+            "title": "Gladiator",
+            "href": "/SRD/NPCs/gladiator"
+          },
+          {
+            "title": "Guard",
+            "href": "/SRD/NPCs/guard"
+          },
+          {
+            "title": "Knight",
+            "href": "/SRD/NPCs/knight"
+          },
+          {
+            "title": "Mage",
+            "href": "/SRD/NPCs/mage"
+          },
+          {
+            "title": "Noble",
+            "href": "/SRD/NPCs/noble"
+          },
+          {
+            "title": "Priest",
+            "href": "/SRD/NPCs/priest"
+          },
+          {
+            "title": "Scout",
+            "href": "/SRD/NPCs/scout"
+          },
+          {
+            "title": "Spy",
+            "href": "/SRD/NPCs/spy"
+          },
+          {
+            "title": "Thug",
+            "href": "/SRD/NPCs/thug"
+          },
+          {
+            "title": "Tribal Warrior",
+            "href": "/SRD/NPCs/tribar-warrior"
+          },
+          {
+            "title": "Veteran",
+            "href": "/SRD/NPCs/veteran"
+          },
+          {
+            "title": "Customizing NPCs",
+            "href": "/SRD/NPCs/customizing"
+          }
+        ]
       },
       {
         "group": "Personalisation",
