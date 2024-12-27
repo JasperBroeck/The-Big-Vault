@@ -3,7 +3,7 @@
   "description": "A big central hub for the castel adventurers and me!",
   "theme": {
     "primary": "#841113",
-    "backgroundDark": "#563C2E",
+    "backgroundDark": "#CEA663",
     "backgroundLight": "#fcb783"
   },
   "sidebar": [
