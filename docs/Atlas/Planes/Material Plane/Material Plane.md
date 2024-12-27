@@ -1,5 +1,5 @@
-#place #map 
+# Material Plane
 
 The Material Plane in Dungeons & Dragons is a vibrant and diverse realm that blends the mundane with the magical. It features a wide array of environments, from lush forests and towering mountains to vast oceans and arid deserts, teeming with life and adventure. Inhabited by numerous intelligent races like humans, elves, and dwarves, as well as mythical beasts and fearsome monsters, the plane is rich in culture and conflict. Magic is integral, wielded by various spellcasters, while technology varies from primitive tools to advanced contraptions. Kingdoms, city-states, and empires, each with their own governance and economy, dot the landscape. The Material Plane is connected to other planes, such as the Feywild and Shadowfell, through portals and rifts, and ancient ruins and forgotten dungeons offer endless exploration opportunities. This plane serves as the central stage for countless adventures driven by the players' actions.
 
-![[planes wheel.webp]]
+![](planes wheel.webp)
