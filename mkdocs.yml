@@ -1,0 +1,37 @@
+site_name: My Docs
+site_url: https://sitename.example
+theme:
+  name: material
+  font:
+    text: Slabo 13px
+    code: Arvo
+  icon:
+    logo: simple/dungeonsanddragons
+  favicon: assets/favicon.ico
+  features:
+    - navigation.footer
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Dark mode
+      primary: red
+      accent: brown
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb-on
+        name: Light mode
+      primary: red
+      accent: brown
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
