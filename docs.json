@@ -11,6 +11,7 @@
     "light": "/assets/logo-black.png",
     "dark": "/assets/logo-white.png"
   },
+  "favicon": "/assets/favicon.ico",
   "sidebar": [
   {
     "group": "Getting Started",
