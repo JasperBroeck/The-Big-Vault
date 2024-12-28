@@ -400,7 +400,40 @@
       },
       {
         "group": "Spellcasting",
-        "pages": []
+        "pages": [
+          {
+            "title": "Cantrips",
+            "href": "/SRD/Spellcasting/cantrips"
+          },
+          {
+            "title": "Casting a Spell",
+            "href": "/SRD/Spellcasting/casting-a-spell"
+          },
+          {
+            "title": "Combining Magical Effects",
+            "href": "/SRD/Spellcasting/combining-magical-effects"
+          },
+          {
+            "title": "Rituals",
+            "href": "/SRD/Spellcasting/rituals"
+          },
+          {
+            "title": "Spell Attack Rolls",
+            "href": "/SRD/Spellcasting/spell-attack-rolls"
+          },
+          {
+            "title": "Spell Saving Throws",
+            "href": "/SRD/Spellcasting/spell-saving-throws"
+          },
+          {
+            "title": "Spells per Class",
+            "href": "/SRD/Spellcasting/spells-per-class"
+          },
+          {
+            "title": "What is a Spell",
+            "href": "/SRD/Spellcasting/what-is-a-spell"
+          }
+        ]
       }
     ]
   }
