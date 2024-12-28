@@ -66,6 +66,16 @@
             ]
           }
         ]
+      },
+      {
+        "group": "Campaign",
+        "href": "/Files/Campaign/",
+        "pages": [
+          {
+            "title": "Chapter 1",
+            "href": "/Files/Campaign/chapter1"
+          }
+        ]
       }
     ]
   },
