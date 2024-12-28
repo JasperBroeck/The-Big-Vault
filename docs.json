@@ -8,10 +8,10 @@
     "defaultTheme": "light"
   },
   "logo": {
-    "light": "/assets/logo-black.png",
-    "dark": "/assets/logo-white.png"
+    "light": "/assets/logos/logo-black.png",
+    "dark": "/assets/logos/logo-white.png"
   },
-  "favicon": "/assets/favicon.ico",
+  "favicon": "/assets/logos/favicon.ico",
   "sidebar": [
   {
     "group": "Castel Adventurers",
@@ -20,6 +20,48 @@
         "title": "D&D Castel Hub",
         "href": "/",
         "icon": "brain"
+      },
+      {
+        "group": "Atlas",
+        "href": "/Files/Atlas/",
+        "pages": [
+          {
+            "group": "Planes",
+            "pages": [
+              {
+                "group": "Material Plane",
+                "href": "/Files/Atlas/Planes/Material-plane/",
+                "pages": [
+                  {
+                    "group": "Cities",
+                    "pages": [
+                      {
+                        "title": "Eldoria",
+                        "href": "/Files/Atlas/Planes/Material-plane/Cities/eldoria"
+                      },
+                      {
+                        "title": "Riverdale",
+                        "href": "/Files/Atlas/Planes/Material-plane/Cities/riverdale"
+                      },
+                      {
+                        "title": "Rivers Mountain",
+                        "href": "/Files/Atlas/Planes/Material-plane/Cities/rivers-mountain"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Plane of Air",
+                "href": "/Files/Atlas/Planes/plane-of-air"
+              },
+              {
+                "title": "Plane of Shadow",
+                "href": "/Files/Atlas/Planes/plane-of-shadow"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
