@@ -76,6 +76,118 @@
             "href": "/Files/Campaign/chapter1"
           }
         ]
+      },
+      {
+        "group": "History and Astrology",
+        "pages": [
+          {
+            "group": "Before Somnus",
+            "pages": [
+              {
+                "title": "2000 BS",
+                "href": "/Files/History-Gods/Before-Somnus/2000"
+              },
+              {
+                "title": "1800 BS",
+                "href": "/Files/History-Gods/Before-Somnus/1800"
+              },
+              {
+                "title": "1600 BS",
+                "href": "/Files/History-Gods/Before-Somnus/1600"
+              },
+              {
+                "title": "900 BS",
+                "href": "/Files/History-Gods/Before-Somnus/900"
+              },
+              {
+                "title": "800 BS",
+                "href": "/Files/History-Gods/Before-Somnus/800"
+              },
+              {
+                "title": "700 BS",
+                "href": "/Files/History-Gods/Before-Somnus/700"
+              },
+              {
+                "title": "500 BS",
+                "href": "/Files/History-Gods/Before-Somnus/500"
+              },
+              {
+                "title": "100 BS",
+                "href": "/Files/History-Gods/Before-Somnus/100"
+              }
+            ]
+          },
+          {
+            "group": "After Somnus",
+            "pages": [
+              {
+                "title": "1 AS",
+                "href": "/Files/History-Gods/After-Somnus/1"
+              },
+              {
+                "title": "100 AS",
+                "href": "/Files/History-Gods/After-Somnus/100"
+              },
+              {
+                "title": "500 AS",
+                "href": "/Files/History-Gods/After-Somnus/500"
+              },
+              {
+                "title": "1000 AS",
+                "href": "/Files/History-Gods/After-Somnus/1000"
+              },
+              {
+                "title": "1500 AS",
+                "href": "/Files/History-Gods/After-Somnus/1500"
+              },
+              {
+                "title": "1704 AS",
+                "href": "/Files/History-Gods/After-Somnus/1704"
+              }
+            ]
+          },
+          {
+            "group": "Gods",
+            "pages": [
+              {
+                "title": "Aeris",
+                "href": "/Files/History-Gods/Gods/aeris"
+              },
+              {
+                "title": "Aquanor",
+                "href": "/Files/History-Gods/Gods/aquanor"
+              },
+              {
+                "title": "Ignis",
+                "href": "/Files/History-Gods/Gods/ignis"
+              },
+              {
+                "title": "Lucia",
+                "href": "/Files/History-Gods/Gods/lucia"
+              },
+              {
+                "title": "Oozeion",
+                "href": "/Files/History-Gods/Gods/oozeion"
+              },
+              {
+                "title": "Somnus",
+                "href": "/Files/History-Gods/Gods/somnus"
+              },
+              {
+                "title": "Terra",
+                "href": "/Files/History-Gods/Gods/terra"
+              },
+              {
+                "title": "Umbra",
+                "href": "/Files/History-Gods/Gods/umbra"
+              },
+              {
+                "title": "Vitralis",
+                "href": "/Files/History-Gods/Gods/vitralis"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
