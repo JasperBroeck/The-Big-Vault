@@ -192,6 +192,42 @@
             ]
           }
         ]
+      },
+      {
+        "group": "Items",
+        "pages": []
+      },
+      {
+        "group": "Life",
+        "pages": [
+          {
+            "group": "Characters",
+            "pages": [
+              {
+                "group": "Companions",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "Groups and Alliances",
+            "pages": []
+          },
+          {
+            "group": "Monsters",
+            "pages": []
+          },
+          {
+            "group": "NPCs",
+            "pages": []
+          }
+        ]
+      },
+      {
+        "group": "Uncategorized",
+        "pages": [
+
+        ]
       }
     ]
   },
