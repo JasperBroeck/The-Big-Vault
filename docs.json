@@ -12,9 +12,22 @@
     "dark": "/assets/logos/logo-white.png"
   },
   "favicon": "/assets/logos/favicon.ico",
+  "tabs": [
+    {
+      "id": "root",
+      "title": "Dungeons & Dragons",
+      "href": "/"
+    },
+    {
+      "id": "quest",
+      "title": "Quest TTRPG",
+      "href": "/"
+    }
+  ],
   "sidebar": [
   {
     "group": "Castel Adventurers",
+    "tab": "root",
     "pages": [
       {
         "title": "D&D Castel Hub",
@@ -242,6 +255,7 @@
   },
   {
     "group": "D&D 5e SRD",
+    "tab": "root",
     "pages": [
       {
         "group": "Adventuring",
