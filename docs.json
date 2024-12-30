@@ -23,45 +23,45 @@
       },
       {
         "group": "Atlas",
-        "href": "/Files/Atlas/",
+        "href": "/Files/D&D/Castel/Atlas/",
         "pages": [
           {
             "group": "Planes",
             "pages": [
               {
                 "group": "Material Plane",
-                "href": "/Files/Atlas/Planes/Material-plane/",
+                "href": "/Files/D&D/Castel/Atlas/Planes/Material-plane/",
                 "pages": [
                   {
                     "group": "Cities",
                     "pages": [
                       {
                         "title": "Eldoria",
-                        "href": "/Files/Atlas/Planes/Material-plane/Cities/eldoria"
+                        "href": "/Files/D&D/Castel/Atlas/Planes/Material-plane/Cities/eldoria"
                       },
                       {
                         "title": "Riverdale",
-                        "href": "/Files/Atlas/Planes/Material-plane/Cities/riverdale"
+                        "href": "/Files/D&D/Castel/Atlas/Planes/Material-plane/Cities/riverdale"
                       },
                       {
                         "title": "Rivers Mountain",
-                        "href": "/Files/Atlas/Planes/Material-plane/Cities/rivers-mountain"
+                        "href": "/Files/D&D/Castel/Atlas/Planes/Material-plane/Cities/rivers-mountain"
                       }
                     ]
                   },
                   {
                     "title": "Aerthos",
-                    "href": "/Files/Atlas/Planes/Material-plane/aerthos"
+                    "href": "/Files/D&D/Castel/Atlas/Planes/Material-plane/aerthos"
                   }
                 ]
               },
               {
                 "title": "Plane of Air",
-                "href": "/Files/Atlas/Planes/plane-of-air"
+                "href": "/Files/D&D/Castel/Atlas/Planes/plane-of-air"
               },
               {
                 "title": "Plane of Shadow",
-                "href": "/Files/Atlas/Planes/plane-of-shadow"
+                "href": "/Files/D&D/Castel/Atlas/Planes/plane-of-shadow"
               }
             ]
           }
@@ -69,11 +69,11 @@
       },
       {
         "group": "Campaign",
-        "href": "/Files/Campaign/",
+        "href": "/Files/D&D/Castel/Campaign/",
         "pages": [
           {
             "title": "Chapter 1",
-            "href": "/Files/Campaign/chapter1"
+            "href": "/Files/D&D/Castel/Campaign/chapter1"
           }
         ]
       },
@@ -85,39 +85,39 @@
             "pages": [
               {
                 "title": "2000 BS",
-                "href": "/Files/History-Gods/Before-Somnus/2000"
+                "href": "/Files/D&D/Castel/History-Gods/Before-Somnus/2000"
               },
               {
                 "title": "1800 BS",
-                "href": "/Files/History-Gods/Before-Somnus/1800"
+                "href": "/Files/D&D/Castel/History-Gods/Before-Somnus/1800"
               },
               {
                 "title": "1600 BS",
-                "href": "/Files/History-Gods/Before-Somnus/1600"
+                "href": "/Files/D&D/Castel/History-Gods/Before-Somnus/1600"
               },
               {
                 "title": "1300 BS",
-                "href": "/Files/History-Gods/Before-Somnus/1300"
+                "href": "/Files/D&D/Castel/History-Gods/Before-Somnus/1300"
               },
               {
                 "title": "900 BS",
-                "href": "/Files/History-Gods/Before-Somnus/900"
+                "href": "/Files/D&D/Castel/History-Gods/Before-Somnus/900"
               },
               {
                 "title": "800 BS",
-                "href": "/Files/History-Gods/Before-Somnus/800"
+                "href": "/Files/D&D/Castel/History-Gods/Before-Somnus/800"
               },
               {
                 "title": "700 BS",
-                "href": "/Files/History-Gods/Before-Somnus/700"
+                "href": "/Files/D&D/Castel/History-Gods/Before-Somnus/700"
               },
               {
                 "title": "500 BS",
-                "href": "/Files/History-Gods/Before-Somnus/500"
+                "href": "/Files/D&D/Castel/History-Gods/Before-Somnus/500"
               },
               {
                 "title": "100 BS",
-                "href": "/Files/History-Gods/Before-Somnus/100"
+                "href": "/Files/D&D/Castel/History-Gods/Before-Somnus/100"
               }
             ]
           },
@@ -126,27 +126,27 @@
             "pages": [
               {
                 "title": "1 AS",
-                "href": "/Files/History-Gods/After-Somnus/1"
+                "href": "/Files/D&D/Castel/History-Gods/After-Somnus/1"
               },
               {
                 "title": "100 AS",
-                "href": "/Files/History-Gods/After-Somnus/100"
+                "href": "/Files/D&D/Castel/History-Gods/After-Somnus/100"
               },
               {
                 "title": "500 AS",
-                "href": "/Files/History-Gods/After-Somnus/500"
+                "href": "/Files/D&D/Castel/History-Gods/After-Somnus/500"
               },
               {
                 "title": "1000 AS",
-                "href": "/Files/History-Gods/After-Somnus/1000"
+                "href": "/Files/D&D/Castel/History-Gods/After-Somnus/1000"
               },
               {
                 "title": "1500 AS",
-                "href": "/Files/History-Gods/After-Somnus/1500"
+                "href": "/Files/D&D/Castel/History-Gods/After-Somnus/1500"
               },
               {
                 "title": "1704 AS",
-                "href": "/Files/History-Gods/After-Somnus/1704"
+                "href": "/Files/D&D/Castel/History-Gods/After-Somnus/1704"
               }
             ]
           },
@@ -155,39 +155,39 @@
             "pages": [
               {
                 "title": "Aeris",
-                "href": "/Files/History-Gods/Gods/aeris"
+                "href": "/Files/D&D/Castel/History-Gods/Gods/aeris"
               },
               {
                 "title": "Aquanor",
-                "href": "/Files/History-Gods/Gods/aquanor"
+                "href": "/Files/D&D/Castel/History-Gods/Gods/aquanor"
               },
               {
                 "title": "Ignis",
-                "href": "/Files/History-Gods/Gods/ignis"
+                "href": "/Files/D&D/Castel/History-Gods/Gods/ignis"
               },
               {
                 "title": "Lucia",
-                "href": "/Files/History-Gods/Gods/lucia"
+                "href": "/Files/D&D/Castel/History-Gods/Gods/lucia"
               },
               {
                 "title": "Oozeion",
-                "href": "/Files/History-Gods/Gods/oozeion"
+                "href": "/Files/D&D/Castel/History-Gods/Gods/oozeion"
               },
               {
                 "title": "Somnus",
-                "href": "/Files/History-Gods/Gods/somnus"
+                "href": "/Files/D&D/Castel/History-Gods/Gods/somnus"
               },
               {
                 "title": "Terra",
-                "href": "/Files/History-Gods/Gods/terra"
+                "href": "/Files/D&D/Castel/History-Gods/Gods/terra"
               },
               {
                 "title": "Umbra",
-                "href": "/Files/History-Gods/Gods/umbra"
+                "href": "/Files/D&D/Castel/History-Gods/Gods/umbra"
               },
               {
                 "title": "Vitralis",
-                "href": "/Files/History-Gods/Gods/vitralis"
+                "href": "/Files/D&D/Castel/History-Gods/Gods/vitralis"
               }
             ]
           }
@@ -228,7 +228,7 @@
         "pages": [
           {
             "title": "00",
-            "href": "/Files/Sessions/00"
+            "href": "/Files/D&D/Castel/Sessions/00"
           }
         ]
       },
@@ -248,51 +248,51 @@
         "pages": [
           {
             "title": "Actions in Combat",
-            "href": "/SRD/Adventuring/actions-in-combat"
+            "href": "/Files/D&D/SRD/Adventuring/actions-in-combat"
           },
           {
             "title": "Between Adventures",
-            "href": "/SRD/Adventuring/between-adventures"
+            "href": "/Files/D&D/SRD/Adventuring/between-adventures"
           },
           {
             "title": "Combat",
-            "href": "/SRD/Adventuring/combat"
+            "href": "/Files/D&D/SRD/Adventuring/combat"
           },
           {
             "title": "Making an Attack",
-            "href": "/SRD/Adventuring/making-an-attack"
+            "href": "/Files/D&D/SRD/Adventuring/making-an-attack"
           },
           {
             "title": "Mounted Combat",
-            "href": "/SRD/Adventuring/mounted-combat"
+            "href": "/Files/D&D/SRD/Adventuring/mounted-combat"
           },
           {
             "title": "Movement",
-            "href": "/SRD/Adventuring/movement"
+            "href": "/Files/D&D/SRD/Adventuring/movement"
           },
           {
             "title": "Movement and Position",
-            "href": "/SRD/Adventuring/movement-and-position"
+            "href": "/Files/D&D/SRD/Adventuring/movement-and-position"
           },
           {
             "title": "Reactions",
-            "href": "/SRD/Adventuring/reactions"
+            "href": "/Files/D&D/SRD/Adventuring/reactions"
           },
           {
             "title": "Resting",
-            "href": "/SRD/Adventuring/resting"
+            "href": "/Files/D&D/SRD/Adventuring/resting"
           },
           {
             "title": "The Environment",
-            "href": "/SRD/Adventuring/the-environment"
+            "href": "/Files/D&D/SRD/Adventuring/the-environment"
           },
           {
             "title": "Time",
-            "href": "/SRD/Adventuring/time"
+            "href": "/Files/D&D/SRD/Adventuring/time"
           },
           {
             "title": "Underwater Combat",
-            "href": "/SRD/Adventuring/underwater-combat"
+            "href": "/Files/D&D/SRD/Adventuring/underwater-combat"
           }
         ]
       },
@@ -301,51 +301,51 @@
         "pages": [
           {
             "title": "Barbarian",
-            "href": "/SRD/Classes/barbarian"
+            "href": "/Files/D&D/SRD/Classes/barbarian"
           },
           {
             "title": "Bard",
-            "href": "/SRD/Classes/bard"
+            "href": "/Files/D&D/SRD/Classes/bard"
           },
           {
             "title": "Cleric",
-            "href": "/SRD/Classes/cleric"
+            "href": "/Files/D&D/SRD/Classes/cleric"
           },
           {
             "title": "Druid",
-            "href": "/SRD/Classes/druid"
+            "href": "/Files/D&D/SRD/Classes/druid"
           },
           {
             "title": "Fighter",
-            "href": "/SRD/Classes/fighter"
+            "href": "/Files/D&D/SRD/Classes/fighter"
           },
           {
             "title": "Monk",
-            "href": "/SRD/Classes/monk"
+            "href": "/Files/D&D/SRD/Classes/monk"
           },
           {
             "title": "Paladin",
-            "href": "/SRD/Classes/paladin"
+            "href": "/Files/D&D/SRD/Classes/paladin"
           },
           {
             "title": "Ranger",
-            "href": "/SRD/Classes/ranger"
+            "href": "/Files/D&D/SRD/Classes/ranger"
           },
           {
             "title": "Rogue",
-            "href": "/SRD/Classes/rogue"
+            "href": "/Files/D&D/SRD/Classes/rogue"
           },
           {
             "title": "Sorcerer",
-            "href": "/SRD/Classes/sorcerer"
+            "href": "/Files/D&D/SRD/Classes/sorcerer"
           },
           {
             "title": "Warlock",
-            "href": "/SRD/Classes/warlock"
+            "href": "/Files/D&D/SRD/Classes/warlock"
           },
           {
             "title": "Wizard",
-            "href": "/SRD/Classes/wizard"
+            "href": "/Files/D&D/SRD/Classes/wizard"
           }
         ]
       },
@@ -354,11 +354,11 @@
         "pages": [
           {
             "title": "Legendary Creatures",
-            "href": "/SRD/Creatures/legendary-creatures"
+            "href": "/Files/D&D/SRD/Creatures/legendary-creatures"
           },
           {
             "title": "Monster Statistics",
-            "href": "/SRD/Creatures/monster-statistics"
+            "href": "/Files/D&D/SRD/Creatures/monster-statistics"
           }
         ]
       },
@@ -367,15 +367,15 @@
         "pages": [
           {
             "title": "Class Features",
-            "href": "/SRD/Customization/class-features"
+            "href": "/Files/D&D/SRD/Customization/class-features"
           },
           {
             "title": "Feats",
-            "href": "/SRD/Customization/feats"
+            "href": "/Files/D&D/SRD/Customization/feats"
           },
           {
             "title": "Multiclassing",
-            "href": "/SRD/Customization/multiclassing"
+            "href": "/Files/D&D/SRD/Customization/multiclassing"
           }
         ]
       },
@@ -384,27 +384,27 @@
         "pages": [
           {
             "title": "Conditions",
-            "href": "/SRD/Gamemastering/conditions"
+            "href": "/Files/D&D/SRD/Gamemastering/conditions"
           },
           {
             "title": "Pantheons",
-            "href": "/SRD/Gamemastering/pantheons"
+            "href": "/Files/D&D/SRD/Gamemastering/pantheons"
           },
           {
             "title": "Planes",
-            "href": "/SRD/Gamemastering/planes"
+            "href": "/Files/D&D/SRD/Gamemastering/planes"
           },
           {
             "title": "Sentient Magic",
-            "href": "/SRD/Gamemastering/sentient-magic"
+            "href": "/Files/D&D/SRD/Gamemastering/sentient-magic"
           },
           {
             "title": "Situational Rules",
-            "href": "/SRD/Gamemastering/situational-rules"
+            "href": "/Files/D&D/SRD/Gamemastering/situational-rules"
           },
           {
             "title": "Treasure",
-            "href": "/SRD/Gamemastering/treasure"
+            "href": "/Files/D&D/SRD/Gamemastering/treasure"
           }
         ]
       },
@@ -413,91 +413,91 @@
         "pages": [
           {
             "title": "Acolyte",
-            "href": "/SRD/NPCs/acolyte"
+            "href": "/Files/D&D/SRD/NPCs/acolyte"
           },
           {
             "title": "Archmage",
-            "href": "/SRD/NPCs/archmage"
+            "href": "/Files/D&D/SRD/NPCs/archmage"
           },
           {
             "title": "Assassin",
-            "href": "/SRD/NPCs/assassin"
+            "href": "/Files/D&D/SRD/NPCs/assassin"
           },
           {
             "title": "Bandit",
-            "href": "/SRD/NPCs/bandit"
+            "href": "/Files/D&D/SRD/NPCs/bandit"
           },
           {
             "title": "Bandit Captain",
-            "href": "/SRD/NPCs/bandit-captain"
+            "href": "/Files/D&D/SRD/NPCs/bandit-captain"
           },
           {
             "title": "Berserker",
-            "href": "/SRD/NPCs/berserker"
+            "href": "/Files/D&D/SRD/NPCs/berserker"
           },
           {
             "title": "Commoner",
-            "href": "/SRD/NPCs/commoner"
+            "href": "/Files/D&D/SRD/NPCs/commoner"
           },
           {
             "title": "Cult Fanatic",
-            "href": "/SRD/NPCs/cult-fanatic"
+            "href": "/Files/D&D/SRD/NPCs/cult-fanatic"
           },
           {
             "title": "Cultist",
-            "href": "/SRD/NPCs/cultist"
+            "href": "/Files/D&D/SRD/NPCs/cultist"
           },
           {
             "title": "Druid",
-            "href": "/SRD/NPCs/druid"
+            "href": "/Files/D&D/SRD/NPCs/druid"
           },
           {
             "title": "Gladiator",
-            "href": "/SRD/NPCs/gladiator"
+            "href": "/Files/D&D/SRD/NPCs/gladiator"
           },
           {
             "title": "Guard",
-            "href": "/SRD/NPCs/guard"
+            "href": "/Files/D&D/SRD/NPCs/guard"
           },
           {
             "title": "Knight",
-            "href": "/SRD/NPCs/knight"
+            "href": "/Files/D&D/SRD/NPCs/knight"
           },
           {
             "title": "Mage",
-            "href": "/SRD/NPCs/mage"
+            "href": "/Files/D&D/SRD/NPCs/mage"
           },
           {
             "title": "Noble",
-            "href": "/SRD/NPCs/noble"
+            "href": "/Files/D&D/SRD/NPCs/noble"
           },
           {
             "title": "Priest",
-            "href": "/SRD/NPCs/priest"
+            "href": "/Files/D&D/SRD/NPCs/priest"
           },
           {
             "title": "Scout",
-            "href": "/SRD/NPCs/scout"
+            "href": "/Files/D&D/SRD/NPCs/scout"
           },
           {
             "title": "Spy",
-            "href": "/SRD/NPCs/spy"
+            "href": "/Files/D&D/SRD/NPCs/spy"
           },
           {
             "title": "Thug",
-            "href": "/SRD/NPCs/thug"
+            "href": "/Files/D&D/SRD/NPCs/thug"
           },
           {
             "title": "Tribal Warrior",
-            "href": "/SRD/NPCs/tribal-warrior"
+            "href": "/Files/D&D/SRD/NPCs/tribal-warrior"
           },
           {
             "title": "Veteran",
-            "href": "/SRD/NPCs/veteran"
+            "href": "/Files/D&D/SRD/NPCs/veteran"
           },
           {
             "title": "Customizing NPCs",
-            "href": "/SRD/NPCs/customizing"
+            "href": "/Files/D&D/SRD/NPCs/customizing"
           }
         ]
       },
@@ -506,71 +506,71 @@
         "pages": [
           {
             "title": "Abilities",
-            "href": "/SRD/Personalisation/abilities"
+            "href": "/Files/D&D/SRD/Personalisation/abilities"
           },
           {
             "title": "Ability Checks",
-            "href": "/SRD/Personalisation/ability-checks"
+            "href": "/Files/D&D/SRD/Personalisation/ability-checks"
           },
           {
             "title": "(Dis)advantage",
-            "href": "/SRD/Personalisation/advantage"
+            "href": "/Files/D&D/SRD/Personalisation/advantage"
           },
           {
             "title": "Adventuring Gear",
-            "href": "/SRD/Personalisation/adventuring-gear"
+            "href": "/Files/D&D/SRD/Personalisation/adventuring-gear"
           },
           {
             "title": "Alignment",
-            "href": "/SRD/Personalisation/alignment"
+            "href": "/Files/D&D/SRD/Personalisation/alignment"
           },
           {
             "title": "Armor",
-            "href": "/SRD/Personalisation/armor"
+            "href": "/Files/D&D/SRD/Personalisation/armor"
           },
           {
             "title": "Backgrounds",
-            "href": "/SRD/Personalisation/backgrounds"
+            "href": "/Files/D&D/SRD/Personalisation/backgrounds"
           },
           {
             "title": "Equipment",
-            "href": "/SRD/Personalisation/equipment"
+            "href": "/Files/D&D/SRD/Personalisation/equipment"
           },
           {
             "title": "Expenses",
-            "href": "/SRD/Personalisation/expenses"
+            "href": "/Files/D&D/SRD/Personalisation/expenses"
           },
           {
             "title": "Ispiration",
-            "href": "/SRD/Personalisation/inspiration"
+            "href": "/Files/D&D/SRD/Personalisation/inspiration"
           },
           {
             "title": "Languages",
-            "href": "/SRD/Personalisation/languages"
+            "href": "/Files/D&D/SRD/Personalisation/languages"
           },
           {
             "title": "Mounts and Vehicles",
-            "href": "/SRD/Personalisation/mounts-and-vehicles"
+            "href": "/Files/D&D/SRD/Personalisation/mounts-and-vehicles"
           },
           {
             "title": "Proficiency Bonus",
-            "href": "/SRD/Personalisation/proficiency-bonus"
+            "href": "/Files/D&D/SRD/Personalisation/proficiency-bonus"
           },
           {
             "title": "Saving Throws",
-            "href": "/SRD/Personalisation/saving-throws"
+            "href": "/Files/D&D/SRD/Personalisation/saving-throws"
           },
           {
             "title": "Tools",
-            "href": "/SRD/Personalisation/tools"
+            "href": "/Files/D&D/SRD/Personalisation/tools"
           },
           {
             "title": "Trade Goods",
-            "href": "/SRD/Personalisation/trade-goods"
+            "href": "/Files/D&D/SRD/Personalisation/trade-goods"
           },
           {
             "title": "Weapons",
-            "href": "/SRD/Personalisation/weapons"
+            "href": "/Files/D&D/SRD/Personalisation/weapons"
           }
         ]
       },
@@ -579,39 +579,39 @@
         "pages": [
           {
             "title": "Dragonborn",
-            "href": "/SRD/Races/dragonborn"
+            "href": "/Files/D&D/SRD/Races/dragonborn"
           },
           {
             "title": "Dwarf",
-            "href": "/SRD/Races/dwarf"
+            "href": "/Files/D&D/SRD/Races/dwarf"
           },
           {
             "title": "Elf",
-            "href": "/SRD/Races/elf"
+            "href": "/Files/D&D/SRD/Races/elf"
           },
           {
             "title": "Gnome",
-            "href": "/SRD/Races/gnome"
+            "href": "/Files/D&D/SRD/Races/gnome"
           },
           {
             "title": "Half-Elf",
-            "href": "/SRD/Races/half-elf"
+            "href": "/Files/D&D/SRD/Races/half-elf"
           },
           {
             "title": "Half-Orc",
-            "href": "/SRD/Races/half-orc"
+            "href": "/Files/D&D/SRD/Races/half-orc"
           },
           {
             "title": "Halfling",
-            "href": "/SRD/Races/halfling"
+            "href": "/Files/D&D/SRD/Races/halfling"
           },
           {
             "title": "Human",
-            "href": "/SRD/Races/human"
+            "href": "/Files/D&D/SRD/Races/human"
           },
           {
             "title": "Tiefling",
-            "href": "/SRD/Races/tiefling"
+            "href": "/Files/D&D/SRD/Races/tiefling"
           }
         ]
       },
@@ -620,35 +620,35 @@
         "pages": [
           {
             "title": "Cantrips",
-            "href": "/SRD/Spellcasting/cantrips"
+            "href": "/Files/D&D/SRD/Spellcasting/cantrips"
           },
           {
             "title": "Casting a Spell",
-            "href": "/SRD/Spellcasting/casting-a-spell"
+            "href": "/Files/D&D/SRD/Spellcasting/casting-a-spell"
           },
           {
             "title": "Combining Magical Effects",
-            "href": "/SRD/Spellcasting/combining-magical-effects"
+            "href": "/Files/D&D/SRD/Spellcasting/combining-magical-effects"
           },
           {
             "title": "Rituals",
-            "href": "/SRD/Spellcasting/rituals"
+            "href": "/Files/D&D/SRD/Spellcasting/rituals"
           },
           {
             "title": "Spell Attack Rolls",
-            "href": "/SRD/Spellcasting/spell-attack-rolls"
+            "href": "/Files/D&D/SRD/Spellcasting/spell-attack-rolls"
           },
           {
             "title": "Spell Saving Throws",
-            "href": "/SRD/Spellcasting/spell-saving-throws"
+            "href": "/Files/D&D/SRD/Spellcasting/spell-saving-throws"
           },
           {
             "title": "Spells per Class",
-            "href": "/SRD/Spellcasting/spells-per-class"
+            "href": "/Files/D&D/SRD/Spellcasting/spells-per-class"
           },
           {
             "title": "What is a Spell",
-            "href": "/SRD/Spellcasting/what-is-a-spell"
+            "href": "/Files/D&D/SRD/Spellcasting/what-is-a-spell"
           }
         ]
       }
