@@ -95,6 +95,89 @@
         ]
       }
     ]
+  },
+  {
+    "group": "D&D 5e SRD",
+    "tab": "d&d",
+    "pages": [
+      {
+        "group": "Adventuring",
+        "pages": [
+          {
+            "title": "Actions in Combat",
+            "href": "/Files/D&D/Adventuring/actions-in-combat"
+          },
+          {
+            "title": "Between Adventures",
+            "href": "/Files/D&D/Adventuring/between-adventures"
+          },
+          {
+            "title": "Combat",
+            "href": "/Files/D&D/Adventuring/combat"
+          },
+          {
+            "title": "Making an Attack",
+            "href": "/Files/D&D/Adventuring/making-an-attack"
+          },
+          {
+            "title": "Mounted Combat",
+            "href": "/Files/D&D/Adventuring/mounted-combat"
+          },
+          {
+            "title": "Movement and Position",
+            "href": "/Files/D&D/Adventuring/movement-and-position"
+          },
+          {
+            "title": "Movement",
+            "href": "/Files/D&D/Adventuring/movement"
+          },
+          {
+            "title": "Reactions",
+            "href": "/Files/D&D/Adventuring/reactions"
+          },
+          {
+            "title": "Resting",
+            "href": "/Files/D&D/Adventuring/resting"
+          },
+          {
+            "title": "The Environment",
+            "href": "/Files/D&D/Adventuring/the-environment"
+          },
+          {
+            "title": "Time",
+            "href": "/Files/D&D/Adventuring/time"
+          },
+          {
+            "title": "Underwater Combat",
+            "href": "/Files/D&D/Adventuring/underwater-combat"
+          }
+        ]
+      },
+      {
+        "group": "Classes",
+        "pages": []
+      },
+      {
+        "group": "Creatures",
+        "pages": []
+      },
+      {
+        "group": "Customization",
+        "pages": []
+      },
+      {
+        "group": "Gamemastering",
+        "pages": []
+      },
+      {
+        "group": "NPCs",
+        "pages": []
+      },
+      {
+        "group": "Personalisation",
+        "pages": []
+      }
+    ]
   }
 ]
 }
