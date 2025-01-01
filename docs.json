@@ -408,6 +408,53 @@
         ]
       }
     ]
+  },
+  {
+    "group": "Quest Rulebook",
+    "tab": "quest",
+    "pages": [
+      {
+        "group": "Rules",
+        "pages": [
+          {
+            "title": "How to play",
+            "href": "/Files/Quest/Rules/How-to-play"
+          },
+          {
+            "title": "Scenes",
+            "href": "/Files/Quest/Rules/Scenes"
+          },
+          {
+            "title": "Action Scenes",
+            "href": "/Files/Quest/Rules/Action-scenes"
+          },
+          {
+            "title": "Distances",
+            "href": "/Files/Quest/Rules/Distances"
+          },
+          {
+            "title": "Rolling the die",
+            "href": "/Files/Quest/Rules/Rolling-the-die"
+          },
+          {
+            "title": "Deadly scenes",
+            "href": "/Files/Quest/Rules/Deadly-scenes"
+          },
+          {
+            "title": "Abilities",
+            "href": "/Files/Quest/Rules/Abilities"
+          },
+          {
+            "title": "Buying things",
+            "href": "/Files/Quest/Rules/Buying-things"
+          },
+          {
+            "title": "General rules",
+            "href": "/Files/Quest/Rules/General-rules"
+          }
+        ]
+      }
+    ]
   }
 ]
 }
