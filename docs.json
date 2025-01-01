@@ -15,13 +15,18 @@
   "tabs": [
     {
       "id": "root",
+      "title": "Campaigns",
+      "href": "/Files/Campaign/"
+    },
+    {
+      "id": "d&d",
       "title": "Dungeons & Dragons",
-      "href": "/"
+      "href": "/Files/D&D/"
     },
     {
       "id": "quest",
       "title": "Quest TTRPG",
-      "href": "/"
+      "href": "/Files/Quest/"
     }
   ],
   "sidebar": [
@@ -255,7 +260,7 @@
   },
   {
     "group": "D&D 5e SRD",
-    "tab": "root",
+    "tab": "d&d",
     "pages": [
       {
         "group": "Adventuring",
