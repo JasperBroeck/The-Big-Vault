@@ -41,45 +41,45 @@
       },
       {
         "group": "Atlas",
-        "href": "/Files/D&D/Campaign/Atlas/",
+        "href": "/Atlas/",
         "pages": [
           {
             "group": "Planes",
             "pages": [
               {
                 "group": "Material Plane",
-                "href": "/Files/D&D/Campaign/Atlas/Planes/Material-plane/",
+                "href": "/Atlas/Planes/Material-plane/",
                 "pages": [
                   {
                     "group": "Cities",
                     "pages": [
                       {
                         "title": "Eldoria",
-                        "href": "/Files/D&D/Campaign/Atlas/Planes/Material-plane/Cities/eldoria"
+                        "href": "/Atlas/Planes/Material-plane/Cities/eldoria"
                       },
                       {
                         "title": "Riverdale",
-                        "href": "/Files/D&D/Campaign/Atlas/Planes/Material-plane/Cities/riverdale"
+                        "href": "/Atlas/Planes/Material-plane/Cities/riverdale"
                       },
                       {
                         "title": "Rivers Mountain",
-                        "href": "/Files/D&D/Campaign/Atlas/Planes/Material-plane/Cities/rivers-mountain"
+                        "href": "/Atlas/Planes/Material-plane/Cities/rivers-mountain"
                       }
                     ]
                   },
                   {
                     "title": "Aerthos",
-                    "href": "/Files/D&D/Campaign/Atlas/Planes/Material-plane/aerthos"
+                    "href": "/Atlas/Planes/Material-plane/aerthos"
                   }
                 ]
               },
               {
                 "title": "Plane of Air",
-                "href": "/Files/D&D/Campaign/Atlas/Planes/plane-of-air"
+                "href": "/Atlas/Planes/plane-of-air"
               },
               {
                 "title": "Plane of Shadow",
-                "href": "/Files/D&D/Campaign/Atlas/Planes/plane-of-shadow"
+                "href": "/Atlas/Planes/plane-of-shadow"
               }
             ]
           }
@@ -87,11 +87,11 @@
       },
       {
         "group": "Campaign",
-        "href": "/Files/D&D/Campaign/Campaign/",
+        "href": "/Campaign/",
         "pages": [
           {
             "title": "Chapter 1",
-            "href": "/Files/D&D/Campaign/Campaign/chapter1"
+            "href": "/Campaign/chapter1"
           }
         ]
       },
@@ -103,39 +103,39 @@
             "pages": [
               {
                 "title": "2000 BS",
-                "href": "/Files/D&D/Campaign/History-Gods/Before-Somnus/2000"
+                "href": "//History-Gods/Before-Somnus/2000"
               },
               {
                 "title": "1800 BS",
-                "href": "/Files/D&D/Campaign/History-Gods/Before-Somnus/1800"
+                "href": "/History-Gods/Before-Somnus/1800"
               },
               {
                 "title": "1600 BS",
-                "href": "/Files/D&D/Campaign/History-Gods/Before-Somnus/1600"
+                "href": "/History-Gods/Before-Somnus/1600"
               },
               {
                 "title": "1300 BS",
-                "href": "/Files/D&D/Campaign/History-Gods/Before-Somnus/1300"
+                "href": "/History-Gods/Before-Somnus/1300"
               },
               {
                 "title": "900 BS",
-                "href": "/Files/D&D/Campaign/History-Gods/Before-Somnus/900"
+                "href": "/History-Gods/Before-Somnus/900"
               },
               {
                 "title": "800 BS",
-                "href": "/Files/D&D/Campaign/History-Gods/Before-Somnus/800"
+                "href": "/History-Gods/Before-Somnus/800"
               },
               {
                 "title": "700 BS",
-                "href": "/Files/D&D/Campaign/History-Gods/Before-Somnus/700"
+                "href": "/History-Gods/Before-Somnus/700"
               },
               {
                 "title": "500 BS",
-                "href": "/Files/D&D/Campaign/History-Gods/Before-Somnus/500"
+                "href": "/History-Gods/Before-Somnus/500"
               },
               {
                 "title": "100 BS",
-                "href": "/Files/D&D/Campaign/History-Gods/Before-Somnus/100"
+                "href": "/History-Gods/Before-Somnus/100"
               }
             ]
           },
@@ -144,27 +144,27 @@
             "pages": [
               {
                 "title": "1 AS",
-                "href": "/Files/D&D/Campaign/History-Gods/After-Somnus/1"
+                "href": "/History-Gods/After-Somnus/1"
               },
               {
                 "title": "100 AS",
-                "href": "/Files/D&D/Campaign/History-Gods/After-Somnus/100"
+                "href": "/History-Gods/After-Somnus/100"
               },
               {
                 "title": "500 AS",
-                "href": "/Files/D&D/Campaign/History-Gods/After-Somnus/500"
+                "href": "/History-Gods/After-Somnus/500"
               },
               {
                 "title": "1000 AS",
-                "href": "/Files/D&D/Campaign/History-Gods/After-Somnus/1000"
+                "href": "/History-Gods/After-Somnus/1000"
               },
               {
                 "title": "1500 AS",
-                "href": "/Files/D&D/Campaign/History-Gods/After-Somnus/1500"
+                "href": "/History-Gods/After-Somnus/1500"
               },
               {
                 "title": "1704 AS",
-                "href": "/Files/D&D/Campaign/History-Gods/After-Somnus/1704"
+                "href": "/History-Gods/After-Somnus/1704"
               }
             ]
           },
@@ -173,39 +173,39 @@
             "pages": [
               {
                 "title": "Aeris",
-                "href": "/Files/D&D/Campaign/History-Gods/Gods/aeris"
+                "href": "/History-Gods/Gods/aeris"
               },
               {
                 "title": "Aquanor",
-                "href": "/Files/D&D/Campaign/History-Gods/Gods/aquanor"
+                "href": "/History-Gods/Gods/aquanor"
               },
               {
                 "title": "Ignis",
-                "href": "/Files/D&D/Campaign/History-Gods/Gods/ignis"
+                "href": "/History-Gods/Gods/ignis"
               },
               {
                 "title": "Lucia",
-                "href": "/Files/D&D/Campaign/History-Gods/Gods/lucia"
+                "href": "/History-Gods/Gods/lucia"
               },
               {
                 "title": "Oozeion",
-                "href": "/Files/D&D/Campaign/History-Gods/Gods/oozeion"
+                "href": "/History-Gods/Gods/oozeion"
               },
               {
                 "title": "Somnus",
-                "href": "/Files/D&D/Campaign/History-Gods/Gods/somnus"
+                "href": "/History-Gods/Gods/somnus"
               },
               {
                 "title": "Terra",
-                "href": "/Files/D&D/Campaign/History-Gods/Gods/terra"
+                "href": "/History-Gods/Gods/terra"
               },
               {
                 "title": "Umbra",
-                "href": "/Files/D&D/Campaign/History-Gods/Gods/umbra"
+                "href": "/History-Gods/Gods/umbra"
               },
               {
                 "title": "Vitralis",
-                "href": "/Files/D&D/Campaign/History-Gods/Gods/vitralis"
+                "href": "/History-Gods/Gods/vitralis"
               }
             ]
           }
@@ -246,7 +246,7 @@
         "pages": [
           {
             "title": "00",
-            "href": "/Files/D&D/Campaign/Sessions/00"
+            "href": "/Sessions/00"
           }
         ]
       },
