@@ -238,7 +238,32 @@
       },
       {
         "group": "Gamemastering",
-        "pages": []
+        "pages": [
+          {
+            "title": "Conditions",
+            "href": "/Files/D&D/Gamemastering/conditions"
+          },
+          {
+            "title": "Pantheons",
+            "href": "/Files/D&D/Gamemastering/pantheons"
+          },
+          {
+            "title": "Planes",
+            "href": "/Files/D&D/Gamemastering/planes"
+          },
+          {
+            "title": "Sentient Magic",
+            "href": "/Files/D&D/Gamemastering/sentient-magic"
+          },
+          {
+            "title": "Situational Rules",
+            "href": "/Files/D&D/Gamemastering/situational-rules"
+          },
+          {
+            "title": "Treasure",
+            "href": "/Files/D&D/Gamemastering/treasure"
+          }
+        ]
       },
       {
         "group": "NPCs",
