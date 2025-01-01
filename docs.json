@@ -267,11 +267,145 @@
       },
       {
         "group": "NPCs",
-        "pages": []
+        "pages": [
+          {
+            "title": "Acolyte",
+            "href": "/Files/D&D/NPCs/acolyte"
+          },
+          {
+            "title": "Archmage",
+            "href": "/Files/D&D/NPCs/archmage"
+          },
+          {
+            "title": "Assassin",
+            "href": "/Files/D&D/NPCs/assassin"
+          },
+          {
+            "title": "Bandit Captain",
+            "href": "/Files/D&D/NPCs/bandit-captain"
+          },
+          {
+            "title": "Bandit",
+            "href": "/Files/D&D/NPCs/bandit"
+          },
+          {
+            "title": "Berserker",
+            "href": "/Files/D&D/NPCs/berserker"
+          },
+          {
+            "title": "Commoner",
+            "href": "/Files/D&D/NPCs/commoner"
+          },
+          {
+            "title": "Cult Fanatic",
+            "href": "/Files/D&D/NPCs/cult-fanatic"
+          },
+          {
+            "title": "Cultist",
+            "href": "/Files/D&D/NPCs/cultist"
+          },
+          {
+            "title": "Customizing",
+            "href": "/Files/D&D/NPCs/customizing"
+          },
+          {
+            "title": "Druid",
+            "href": "/Files/D&D/NPCs/druid"
+          },
+          {
+            "title": "Gladiator",
+            "href": "/Files/D&D/NPCs/gladiator"
+          },
+          {
+            "title": "Guard",
+            "href": "/Files/D&D/NPCs/guard"
+          },
+          {
+            "title": "Knight",
+            "href": "/Files/D&D/NPCs/knight"
+          },
+          {
+            "title": "Mage",
+            "href": "/Files/D&D/NPCs/mage"
+          },
+          {
+            "title": "Noble",
+            "href": "/Files/D&D/NPCs/noble"
+          },
+          {
+            "title": "Priest",
+            "href": "/Files/D&D/NPCs/priest"
+          },
+          {
+            "title": "Scout",
+            "href": "/Files/D&D/NPCs/scout"
+          },
+          {
+            "title": "Spy",
+            "href": "/Files/D&D/NPCs/spy"
+          },
+          {
+            "title": "Thug",
+            "href": "/Files/D&D/NPCs/thug"
+          },
+          {
+            "title": "Tribal Warrior",
+            "href": "/Files/D&D/NPCs/tribal-warrior"
+          },
+          {
+            "title": "Veteran",
+            "href": "/Files/D&D/NPCs/veteran"
+          }
+        ]
       },
       {
         "group": "Personalisation",
-        "pages": []
+        "pages": [
+          {
+            "title": "Abilities",
+            "href": "/Files/D&D/Personalisation/abilities"
+          },
+          {
+            "title": "Ability checks",
+            "href": "/Files/D&D/Personalisation/ability-checks"
+          },
+          {
+            "title": "Advantage",
+            "href": "/Files/D&D/Personalisation/advantage"
+          },
+          {
+            "title": "Adventuring Gear",
+            "href": "/Files/D&D/Personalisation/adventuring-gear"
+          },
+          {
+            "title": "Alignment",
+            "href": "/Files/D&D/Personalisation/alignment"
+          },
+          {
+            "title": "Armor",
+            "href": "/Files/D&D/Personalisation/armor"
+          },
+          {
+            "title": "Backgrounds",
+            "href": "/Files/D&D/Personalisation/backgrounds"
+          },
+          {
+            "title": "Equipment",
+            "href": "/Files/D&D/Personalisation/equipment"
+          },
+          {
+            "title": "Expenses",
+            "href": "/Files/D&D/Personalisation/expenses"
+          },
+          {
+            "title": "Inspiration",
+            "href": "/Files/D&D/Personalisation/inspiration"
+          },
+          {
+            "title": "Languages",
+            "href": "/Files/D&D/Personalisation/languages"
+          }
+        ]
       }
     ]
   }
