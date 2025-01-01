@@ -155,15 +155,86 @@
       },
       {
         "group": "Classes",
-        "pages": []
+        "pages": [
+          {
+            "title": "Barbarian",
+            "href": "/Files/D&D/Classes/barbarian"
+          },
+          {
+            "title": "Bard",
+            "href": "/Files/D&D/Classes/bard"
+          },
+          {
+            "title": "Cleric",
+            "href": "/Files/D&D/Classes/cleric"
+          },
+          {
+            "title": "Druid",
+            "href": "/Files/D&D/Classes/druid"
+          },
+          {
+            "title": "Fighter",
+            "href": "/Files/D&D/Classes/fighter"
+          },
+          {
+            "title": "Monk",
+            "href": "/Files/D&D/Classes/monk"
+          },
+          {
+            "title": "Paladin",
+            "href": "/Files/D&D/Classes/paladin"
+          },
+          {
+            "title": "Ranger",
+            "href": "/Files/D&D/Classes/ranger"
+          },
+          {
+            "title": "Rogue",
+            "href": "/Files/D&D/Classes/rogue"
+          },
+          {
+            "title": "Sorcerer",
+            "href": "/Files/D&D/Classes/sorcerer"
+          },
+          {
+            "title": "Warlock",
+            "href": "/Files/D&D/Classes/warlock"
+          },
+          {
+            "title": "Wizard",
+            "href": "/Files/D&D/Classes/wizard"
+          }
+        ]
       },
       {
         "group": "Creatures",
-        "pages": []
+        "pages": [
+          {
+            "title": "Legendary Creatures",
+            "href": "/Files/D&D/Creatures/legendary-creatures"
+          },
+          {
+            "title": "Monster Statistics",
+            "href": "/Files/D&D/Creatures/monster-statistics"
+          }
+        ]
       },
       {
         "group": "Customization",
-        "pages": []
+        "pages": [
+          {
+            "title": "Class Features",
+            "href": "/Files/D&D/Customization/class-features"
+          },
+          {
+            "title": "Feats",
+            "href": "/Files/D&D/Customization/feats"
+          },
+          {
+            "title": "Multiclassing",
+            "href": "/Files/D&D/Customization/multiclassing"
+          }
+        ]
       },
       {
         "group": "Gamemastering",
