@@ -453,6 +453,47 @@
             "href": "/Files/Quest/Rules/General-rules"
           }
         ]
+      },
+      {
+        "group": "Character Creation",
+        "pages": [
+          {
+            "title": "Character profile",
+            "href": "/Files/Quest/Character-creation/Character-profile"
+          },
+          {
+            "title": "Choose a role",
+            "href": "/Files/Quest/Character-creation/Choose-a-role"
+          },
+          {
+            "title": "First Impressions",
+            "href": "/Files/Quest/Character-creation/First-impressions"
+          },
+          {
+            "title": "Style",
+            "href": "/Files/Quest/Character-creation/Style"
+          },
+          {
+            "title": "Community",
+            "href": "/Files/Quest/Character-creation/Community"
+          },
+          {
+            "title": "Ideal",
+            "href": "/Files/Quest/Character-creation/Ideal"
+          },
+          {
+            "title": "Flaw",
+            "href": "/Files/Quest/Character-creation/Flaw"
+          },
+          {
+            "title": "Dream",
+            "href": "/Files/Quest/Character-creation/Dream"
+          },
+          {
+            "title": "Weapons and Gear",
+            "href": "/Files/Quest/Character-creation/Weapons-and-gear"
+          }
+        ]
       }
     ]
   }
