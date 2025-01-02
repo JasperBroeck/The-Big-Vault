@@ -494,6 +494,51 @@
             "href": "/Files/Quest/Character-creation/Weapons-and-gear"
           }
         ]
+      },
+      {
+        "group": "The Ability Catalog",
+        "pages": [
+          {
+            "title": "How to use abilities",
+            "href": "/Files/Quest/Ability-catalog/How-to-use-abilities"
+          },
+          {
+            "title": "The Omniverse",
+            "href": "/Files/Quest/Ability-catalog/Omniverse"
+          },
+          {
+            "title": "The Fighter",
+            "href": "/Files/Quest/Ability-catalog/Fighter"
+          },
+          {
+            "title": "The Invoker",
+            "href": "/Files/Quest/Ability-catalog/Invoker"
+          },
+          {
+            "title": "The Ranger",
+            "href": "/Files/Quest/Ability-catalog/Ranger"
+          },
+          {
+            "title": "The Naturalist",
+            "href": "/Files/Quest/Ability-catalog/Naturalist"
+          },
+          {
+            "title": "The Doctor",
+            "href": "/Files/Quest/Ability-catalog/Doctor"
+          },
+          {
+            "title": "The Spy",
+            "href": "/Files/Quest/Ability-catalog/Spy"
+          },
+          {
+            "title": "The Magician",
+            "href": "/Files/Quest/Ability-catalog/Magician"
+          },
+          {
+            "title": "The Wizard",
+            "href": "/Files/Quest/Ability-catalog/Wizard"
+          }
+        ]
       }
     ]
   }
