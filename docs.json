@@ -31,7 +31,7 @@
   ],
   "sidebar": [
   {
-    "group": "D&D Castel Campaign",
+    "group": "Aerthos World",
     "tab": "root",
     "pages": [
       {
@@ -83,16 +83,16 @@
             ]
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "group": "Story",
+    "tab": "root",
+    "pages": [
       {
-        "group": "Campaign",
-        "href": "/Files/Campaign/Campaign",
-        "pages": [
-          {
-            "title": "Chapter 1",
-            "href": "/Files/Campaign/Campaign/chapter1"
-          }
-        ]
+        "title": "Chapter 1",
+        "href": "/Files/Campaign/Campaign/chapter1"
       }
     ]
   },
