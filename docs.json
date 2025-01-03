@@ -40,45 +40,45 @@
       },
       {
         "group": "Atlas",
-        "href": "/Files/Campaign/Atlas/",
+        "href": "/Files/World/Atlas/",
         "pages": [
           {
             "group": "Planes",
             "pages": [
               {
                 "group": "Material Plane",
-                "href": "/Files/Campaign/Atlas/Planes/Material-plane/",
+                "href": "/Files/World/Atlas/Planes/Material-plane/",
                 "pages": [
                   {
                     "group": "Cities",
                     "pages": [
                       {
                         "title": "Eldoria",
-                        "href": "/Files/Campaign/Atlas/Planes/Material-plane//Cities/eldoria"
+                        "href": "/Files/World/Atlas/Planes/Material-plane//Cities/eldoria"
                       },
                       {
                         "title": "Riverdale",
-                        "href": "/Files/Campaign/Atlas/Planes/Material-plane//Cities/riverdale"
+                        "href": "/Files/World/Atlas/Planes/Material-plane//Cities/riverdale"
                       },
                       {
                         "title": "Rivers Mountain",
-                        "href": "/Files/Campaign/Atlas/Planes/Material-plane//Cities/rivers-mountain"
+                        "href": "/Files/World/Atlas/Planes/Material-plane//Cities/rivers-mountain"
                       }
                     ]
                   },
                   {
                     "title": "Aerthos",
-                    "href": "/Files/Campaign/Atlas/Planes/Material-plane/aerthos"
+                    "href": "/Files/World/Atlas/Planes/Material-plane/aerthos"
                   }
                 ]
               },
               {
                 "title": "Plane of Air",
-                "href": "/Files/Campaign/Atlas/Planes/plane-of-air"
+                "href": "/Files/World/Atlas/Planes/plane-of-air"
               },
               {
                 "title": "Plane of Shadow",
-                "href": "/Files/Campaign/Atlas/Planes/plane-of-shadow"
+                "href": "/Files/World/Atlas/Planes/plane-of-shadow"
               }
             ]
           }
@@ -92,7 +92,7 @@
     "pages": [
       {
         "title": "Chapter 1",
-        "href": "/Files/Campaign/Campaign/chapter1"
+        "href": "/Files/Story/chapter1"
       }
     ]
   },
