@@ -1,6 +1,6 @@
 {
   "name": "The Big Vault",
-  "description": "A big central hub for the castel adventurers and me!",
+  "description": "Big hub with a lot of information",
   "theme": {
     "primary": "#841113",
     "backgroundDark": "#1e1206",
@@ -35,7 +35,7 @@
     "tab": "root",
     "pages": [
       {
-        "title": "D&D Castel Hub",
+        "title": "D&D & The haunted Lighthouse",
         "href": "/"
       },
       {
