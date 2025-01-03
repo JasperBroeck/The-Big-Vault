@@ -40,49 +40,52 @@
       },
       {
         "group": "Atlas",
-        "href": "/Files/World/Atlas/",
         "pages": [
           {
-            "group": "Planes",
+            "title": "Northern Shore",
+            "href": "/Files/World/Atlas/Northern-shore"
+          }
+        ]
+      },
+      {
+        "group": "Items",
+        "pages": [
+          {
+            "title": "Holy Key",
+            "href": "/Files/World/Items/Holy-key"
+          }
+        ]
+      },
+      {
+        "group": "Life",
+        "pages": [
+          {
+            "group": "Characters",
+            "pages": []
+          },
+          {
+            "group": "NPCs",
             "pages": [
               {
-                "group": "Material Plane",
-                "href": "/Files/World/Atlas/Planes/Material-plane/",
-                "pages": [
-                  {
-                    "group": "Cities",
-                    "pages": [
-                      {
-                        "title": "Eldoria",
-                        "href": "/Files/World/Atlas/Planes/Material-plane//Cities/eldoria"
-                      },
-                      {
-                        "title": "Riverdale",
-                        "href": "/Files/World/Atlas/Planes/Material-plane//Cities/riverdale"
-                      },
-                      {
-                        "title": "Rivers Mountain",
-                        "href": "/Files/World/Atlas/Planes/Material-plane//Cities/rivers-mountain"
-                      }
-                    ]
-                  },
-                  {
-                    "title": "Aerthos",
-                    "href": "/Files/World/Atlas/Planes/Material-plane/aerthos"
-                  }
-                ]
-              },
-              {
-                "title": "Plane of Air",
-                "href": "/Files/World/Atlas/Planes/plane-of-air"
-              },
-              {
-                "title": "Plane of Shadow",
-                "href": "/Files/World/Atlas/Planes/plane-of-shadow"
+                "title": "Ranger Calder",
+                "href": "/Files/World/Life/NPCs/Calder"
               }
             ]
           }
         ]
+      },
+      {
+        "group": "Lore",
+        "pages": [
+          {
+            "title": "Haunted Lighthouse",
+            "href": "/Files/World/Lore/Lighthouse"
+          }
+        ]
+      },
+      {
+        "group": "Miscellaneous",
+        "pages": []
       }
     ]
   },
