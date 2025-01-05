@@ -98,8 +98,22 @@
     "tab": "root",
     "pages": [
       {
-        "title": "Chapter 1",
-        "href": "/Files/Story/chapter1"
+        "group": "Campaign",
+        "pages": [
+          {
+            "title": "Chapter 1",
+            "href": "/Files/Story/Campaign/chapter1"
+          }
+        ]
+      },
+      {
+        "group": "Session Notes",
+        "pages": [
+          {
+            "title": "Session 0",
+            "href": "/Files/Story/Sessions/0"
+          }
+        ]
       }
     ]
   },
