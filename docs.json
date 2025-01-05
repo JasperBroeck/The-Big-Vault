@@ -102,16 +102,7 @@
     "tab": "root",
     "pages": [
       {
-        "group": "Campaign",
-        "pages": [
-          {
-            "title": "Chapter 1",
-            "href": "/Files/Story/Campaign/chapter1"
-          }
-        ]
-      },
-      {
-        "group": "Session Notes",
+        "group": "Session Notes + Story",
         "pages": [
           {
             "title": "Session 0",
