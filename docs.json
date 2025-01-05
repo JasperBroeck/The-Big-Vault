@@ -35,7 +35,7 @@
     "tab": "root",
     "pages": [
       {
-        "title": "D&D & The haunted Lighthouse",
+        "title": "DM Screen Digital",
         "href": "/"
       },
       {
@@ -69,6 +69,10 @@
               {
                 "title": "Ranger Calder",
                 "href": "/Files/World/Life/NPCs/Calder"
+              },
+              {
+                "title": "Tavern Owner Gwen",
+                "href": "/Files/World/Life/NPCs/Gwen"
               }
             ]
           }
