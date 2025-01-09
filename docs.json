@@ -65,7 +65,24 @@
         "pages": [
           {
             "group": "Characters",
-            "pages": []
+            "pages": [
+              {
+                "title": "Dimitri",
+                "href": "/Files/World/Life/Characters/Dimitri"
+              },
+              {
+                "title": "Winnieg",
+                "href": "/Files/World/Life/Characters/Winnieg"
+              },
+              {
+                "title": "Xaden",
+                "href": "/Files/World/Life/Characters/Xaden"
+              },
+              {
+                "title": "Xyren",
+                "href": "/Files/World/Life/Characters/Xyren"
+              }
+            ]
           },
           {
             "group": "NPCs",
